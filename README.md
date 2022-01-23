@@ -3,7 +3,7 @@
 ## #deep-learning, #python, #jupyter-notebook, #kivy
 
 ## Quick Description: 
-An application powered by neural networks created as part of our final project that is centred on solving Indian farmer issues specifically getting the right price for their crops at the market(Mandi) near to them.
+A deep learning based application created as part of our final project that is centred on solving Indian farmer issues specifically getting the right price for their crops at the market(Mandi) near to them.
 
 ## Abstract(the longer version):
 One of the most pressing issues in India is the large number of farmer suicides. The Indian government has been taking measures to solve this problem for several years. Government markets buy crops at the minimum support prices but only a minimum quota. As a result, the farmers end up selling their crops to third-party vendors that don’t guarantee minimum support prices, and the farmers don’t make a profit. We propose a deep learning model that can estimate the price of a certain crop at a certain market in India. The price predicted by the model can help farmers to determine where and when they should sell their produce. The primary motivation behind this project is to maximize the profit of an individual farmer thus decreasing their likelihood of suffering a loss.
