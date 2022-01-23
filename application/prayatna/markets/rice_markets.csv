@@ -1,0 +1,893 @@
+,District Name,Market Name,State
+0,Barpeta,Bohorihat,Assam
+3015,Bangaigaon,Bongiagaon,Assam
+5017,Cachar,Cachar,Assam
+12628,Sonitpur,Dhekiajuli,Assam
+13741,Nagaon,Dhing,Assam
+14883,Dibrugarh,Dibrugarh,Assam
+15497,Dhubri,Gauripur,Assam
+16486,Goalpara,Goalpara,Assam
+17892,Golaghat,Golaghat,Assam
+19485,Kamrup,Goreswar,Assam
+19571,Hailakandi,Hailakandi,Assam
+22566,Barpeta,Howly,Assam
+26313,Jorhat,Jorhat,Assam
+27243,Karimganj,Karimganj,Assam
+28522,Darrang,Kharupetia,Assam
+29158,Nagaon,Lanka,Assam
+31854,Nalbari,Nalbari,Assam
+33433,Lakhimpur,North Lakhimpur,Assam
+34397,Kamrup,P.O. Uparhali Guwahati,Assam
+41855,Dhemaji,Silapathar,Assam
+42705,Sibsagar,Sivasagar,Assam
+43862,Kokrajhar,Srirampur,Assam
+44046,Tinsukia,Tinsukia,Assam
+0,Delhi,Najafgarh,Delhi
+686,Delhi,Narela,Delhi
+828,Delhi,Shahdara,Delhi
+0,Jammu,Jammu (Grain Mandi),Jammu_and_Kashmir
+0,Bokaro,Bermo,Jharkhand
+150,Bokaro,Bokaro (Chas),Jharkhand
+961,West Singbhum,Chaibasa,Jharkhand
+2993,East Singhbhum,Chakulia,Jharkhand
+3395,Palamu,Daltenganj,Jharkhand
+3769,Deogarh,Deoghar,Jharkhand
+4888,Dhanbad,Dhanbad,Jharkhand
+6346,Dumka,Dumka,Jharkhand
+8024,Garhwa,Gadhwah,Jharkhand
+8682,Giridih,Giridih,Jharkhand
+10417,Godda,Godda,Jharkhand
+10928,Gumla,Gumla,Jharkhand
+11321,Hazaribagh,Hazaribagh,Jharkhand
+12007,East Singhbhum,Jamshedpur,Jharkhand
+13761,Jamtara,Jamtara,Jharkhand
+14501,Ranchi,Khunti,Jharkhand
+15591,Koderma,Koderma,Jharkhand
+17029,Latehar,Latehar,Jharkhand
+17983,Lohardaga,Lohardaga,Jharkhand
+18164,Deogarh,Madhupur,Jharkhand
+18476,Pakur,Pakur,Jharkhand
+19857,Hazaribagh,Ramgarh,Jharkhand
+20090,Ranchi,Ranchi,Jharkhand
+23161,Sahebgang,Sahebganj,Jharkhand
+25373,Saraikela(Kharsanwa),Saraikela,Jharkhand
+26173,Simdega,Simdega,Jharkhand
+74101,Ranchi,Pandara,Jharkhand
+0,Dharwad,Annigeri,Karnataka
+35,Hassan,Arasikere,Karnataka
+107,Belgaum,Athani,Karnataka
+113,Belgaum,Bailahongal,Karnataka
+241,Bangalore,Bangalore,Karnataka
+1767,Kolar,Bangarpet,Karnataka
+3128,Mangalore(Dakshin Kannad),Bantwala,Karnataka
+3687,Mangalore(Dakshin Kannad),Belthangdi,Karnataka
+4778,Hassan,Belur,Karnataka
+5120,Shimoga,Bhadravathi,Karnataka
+5372,Bidar,Bhalki,Karnataka
+5373,Bidar,Bidar,Karnataka
+6713,Chitradurga,Challakere,Karnataka
+6715,Chamrajnagar,Chamaraj Nagar,Karnataka
+6943,Davangere,Channagiri,Karnataka
+6945,Bangalore,Channapatana,Karnataka
+7078,Hassan,Channarayapatna,Karnataka
+7286,Kolar,Chickkaballapura,Karnataka
+7477,Chikmagalur,Chikkamagalore,Karnataka
+7623,Kolar,Chintamani,Karnataka
+9338,Chitradurga,Chitradurga,Karnataka
+9339,Gulbarga,Chittapur,Karnataka
+9340,Davangere,Davangere,Karnataka
+9345,Dharwad,Dharwar,Karnataka
+9371,Bangalore,Doddaballa Pur,Karnataka
+9798,Koppal,Gangavathi,Karnataka
+10112,Madikeri(Kodagu),Gonikappal,Karnataka
+10217,Kolar,Gowribidanoor,Karnataka
+11001,Tumkur,Gubbi,Karnataka
+11017,Gulbarga,Gulbarga,Karnataka
+12618,Chamrajnagar,Gundlupet,Karnataka
+12700,Bellary,H.B. Halli,Karnataka
+12879,Haveri,Hanagal,Karnataka
+13062,Davangere,Harappana Halli,Karnataka
+13070,Davangere,Harihara,Karnataka
+13121,Hassan,Hassan,Karnataka
+13553,Haveri,Haveri,Karnataka
+13555,Haveri,Hirekerur,Karnataka
+13557,Chitradurga,Hiriyur,Karnataka
+13574,Hassan,Holenarsipura,Karnataka
+13816,Davangere,Honnali,Karnataka
+13846,Karwar(Uttar Kannad),Honnavar,Karnataka
+13881,Chitradurga,Hosadurga,Karnataka
+13885,Bellary,Hospet,Karnataka
+14323,Tumkur,Huliyar,Karnataka
+14341,Bidar,Humanabad,Karnataka
+14384,Mysore,Hunsur,Karnataka
+14425,Bagalkot,Jamakhandi,Karnataka
+14433,Mandya,K.R. Pet,Karnataka
+14543,Mysore,K.R.Nagar,Karnataka
+15082,Chikmagalur,Kadur,Karnataka
+15116,Dharwad,Kalagategi,Karnataka
+15128,Bangalore,Kanakapura,Karnataka
+15133,Udupi,Karkala,Karnataka
+15462,Karwar(Uttar Kannad),Karwar,Karnataka
+15577,Kolar,Kolar,Karnataka
+15727,Chamrajnagar,Kollegal,Karnataka
+15811,Chikmagalur,Koppa,Karnataka
+15940,Karwar(Uttar Kannad),Kumta,Karnataka
+15946,Dharwad,Kundagol,Karnataka
+15982,Udupi,Kundapura,Karnataka
+15992,Tumkur,Kunigal,Karnataka
+16037,Raichur,Lingasugur,Karnataka
+16045,Mandya,Maddur,Karnataka
+16453,Tumkur,Madhugiri,Karnataka
+16591,Madikeri(Kodagu),Madikeri,Karnataka
+16665,Kolar,Malur,Karnataka
+16984,Mandya,Mandya,Karnataka
+17038,Mangalore(Dakshin Kannad),Mangalore,Karnataka
+18443,Raichur,Manvi,Karnataka
+18460,Chikmagalur,Moodigere,Karnataka
+18658,Kolar,Mulabagilu,Karnataka
+18705,Karwar(Uttar Kannad),Mundgod,Karnataka
+18714,Mysore,Mysore (Bandipalya),Karnataka
+20752,Mandya,Nagamangala,Karnataka
+21070,Mysore,Nanjangud,Karnataka
+21074,Belgaum,Nippani,Karnataka
+21081,Mandya,Pandavapura,Karnataka
+21104,Tumkur,Pavagada,Karnataka
+21450,Mysore,Piriya Pattana,Karnataka
+21461,Mangalore(Dakshin Kannad),Puttur,Karnataka
+22570,Raichur,Raichur,Karnataka
+22577,Bangalore,Ramanagara,Karnataka
+22879,Haveri,Ranebennur,Karnataka
+23025,Gadag,Rona,Karnataka
+23026,Shimoga,Sagar,Karnataka
+23027,Hassan,Sakaleshpura,Karnataka
+23208,Belgaum,Sankeshwar,Karnataka
+23218,Mysore,Santhesargur,Karnataka
+23252,Gulbarga,Sedam,Karnataka
+23256,Gulbarga,Shahapur,Karnataka
+23287,Shimoga,Shikaripura,Karnataka
+23324,Shimoga,Shimoga,Karnataka
+25543,Karwar(Uttar Kannad),Siddapur,Karnataka
+25544,Raichur,Sindhanur,Karnataka
+26936,Tumkur,Sira,Karnataka
+27014,Bellary,Sirguppa,Karnataka
+27105,Madikeri(Kodagu),Somvarpet,Karnataka
+27334,Belgaum,Soundati,Karnataka
+27348,Chikmagalur,Sringeri,Karnataka
+27379,Kolar,Srinivasapur,Karnataka
+27978,Mandya,Srirangapattana,Karnataka
+28054,Mangalore(Dakshin Kannad),Sulya,Karnataka
+28331,Mysore,T. Narasipura,Karnataka
+28415,Chikmagalur,Tarikere,Karnataka
+28492,Tumkur,Tumkur,Karnataka
+28680,Tumkur,Turvekere,Karnataka
+28714,Udupi,Udupi,Karnataka
+29233,Koppal,Yalburga,Karnataka
+29242,Karwar(Uttar Kannad),Yellapur,Karnataka
+29274,Hassan,Arakalgud,Karnataka
+29416,Chikmagalur,Bagepalli,Karnataka
+34150,Bellary,Bellary,Karnataka
+36869,Bijapur,Bijapur,Karnataka
+40712,Gadag,Gadag,Karnataka
+44434,Bellary,Hoovinahadagali,Karnataka
+44509,Shimoga,Hosanagar,Karnataka
+44555,Bangalore,Hoskote,Karnataka
+44865,Dharwad,Hubli (Amaragol),Karnataka
+45677,Koppal,Karatgi,Karnataka
+46787,Belgaum,Kudchi,Karnataka
+53375,Gadag,Nargunda,Karnataka
+57600,Bijapur,Sindagi,Karnataka
+57603,Bijapur,Sindagi(Hendi),Karnataka
+58826,Karwar(Uttar Kannad),Sirsi,Karnataka
+59558,Shimoga,Thirthahalli,Karnataka
+0,Idukki,Adimali,Kerala
+117,Alappuzha,Alappuzha,Kerala
+9042,Ernakulam,Aluva,Kerala
+9722,Kollam,Anchal,Kerala
+9723,Thiruvananthapuram,Anyara(EEC),Kerala
+9841,Alappuzha,Aroor,Kerala
+13127,Thiruvananthapuram,Chala,Kerala
+14144,Alappuzha,Chanthroor,Kerala
+15767,Kollam,Chathanoor,Kerala
+15770,Alappuzha,Chengannur,Kerala
+18322,Alappuzha,Cherthala,Kerala
+20586,Alleppey,Dhara,Kerala
+21721,Ernakulam,Ernakulam,Kerala
+24395,Kottayam,Ettumanoor,Kerala
+24417,Alappuzha,Harippad,Kerala
+25261,Kozhikode(Calicut),Kallachi,Kerala
+25328,Wayanad,Kalpetta,Kerala
+25621,Kottayam,Kanjirappally,Kerala
+25622,Kannur,Kannur,Kerala
+25631,Kasargod,Kasargod,Kerala
+25693,Alappuzha,Kayamkulam,Kerala
+25713,Alleppey,Kayamkulam(Alleppey),Kerala
+25812,Kollam,Kollam,Kerala
+27620,Malappuram,Kondotty,Kerala
+27957,Malappuram,Kottakkal,Kerala
+28578,Kollam,Kottarakkara,Kerala
+28603,Kottayam,Kottayam,Kerala
+29977,Kottayam,Kuruppanthura,Kerala
+29993,Malappuram,Manjeri,Kerala
+33671,Alappuzha,Mannar,Kerala
+34107,Ernakulam,Moovattupuzha,Kerala
+34145,Idukki,Munnar,Kerala
+34242,Thiruvananthapuram,Nedumangadu,Kerala
+35498,Idukki,Nedumkandam,Kerala
+36135,Kasargod,Neeleswaram,Kerala
+36162,Kottayam,Pala,Kerala
+36197,Pathanamthitta,Parakkodu,Kerala
+37149,Malappuram,Parappanangadi,Kerala
+39910,Kannur,Payyannur,Kerala
+39911,Malappuram,Perinthalmanna,Kerala
+44135,Ernakulam,Piravam,Kerala
+44172,Wayanad,Pulpally,Kerala
+44176,Kollam,Punalur,Kerala
+45673,Kollam,Sasthamkotta,Kerala
+45674,Kannur,Thalasserry,Kerala
+45675,Malappuram,Thirurrangadi,Kerala
+48860,Thiruvananthapuram,Thiruvananthapuram,Kerala
+54004,Idukki,Thodupuzha,Kerala
+58796,Idukki,Vandiperiyar,Kerala
+58800,Kozhikode(Calicut),Vengeri(Kozhikode),Kerala
+0,Sangli,Aatpadi,Maharashtra
+1,Amarawati,Achalpur,Maharashtra
+807,Gadchiroli,Aheri,Maharashtra
+1152,Latur,Ahmedpur,Maharashtra
+1167,Sholapur,Akluj,Maharashtra
+1171,Akola,Akola,Maharashtra
+1234,Ahmednagar,Akole,Maharashtra
+1268,Akola,Akot,Maharashtra
+1269,Raigad,Alibagh,Maharashtra
+4672,Amarawati,Amarawati,Maharashtra
+4674,Beed,Ambejaogai,Maharashtra
+4675,Gondiya,Amgaon,Maharashtra
+4679,Gondiya,Arjuni,Maharashtra
+5529,Gadchiroli,Armori,Maharashtra
+5530,Gadchiroli,Armori(Desaiganj),Maharashtra
+5531,Pune,Baramati,Maharashtra
+5587,Sholapur,Barshi,Maharashtra
+5808,Sholapur,Barshi(Vairag),Maharashtra
+5809,Bhandara,Bhandara,Maharashtra
+7567,Thane,Bhivandi,Maharashtra
+8819,Nanded,Bhokar,Maharashtra
+9319,Jalana,Bhokardan,Maharashtra
+9320,Pune,Bhor,Maharashtra
+9359,Jalgaon,Chalisgaon,Maharashtra
+9452,Nashik,Devala,Maharashtra
+9556,Yavatmal,Digras,Maharashtra
+9580,Nashik,Dindori,Maharashtra
+9586,Dhule,Dondaicha(Sindhkheda),Maharashtra
+9587,Pune,Dound,Maharashtra
+9588,Mumbai,Fruit Market,Maharashtra
+9590,Kolhapur,Gadhinglaj,Maharashtra
+9591,Gadchiroli,Gandchiroli,Maharashtra
+9601,Parbhani,Gangakhed,Maharashtra
+9608,Nashik,Ghoti,Maharashtra
+10174,Gondiya,Gondiya,Maharashtra
+10175,Chandrapur,Gondpimpri,Maharashtra
+10176,Gondiya,Goregaon,Maharashtra
+10177,Nanded,Hadgaon,Maharashtra
+10179,Hingoli,Hingoli,Maharashtra
+10182,Pune,Indapur,Maharashtra
+10300,Pune,Indapur(Bhigwan),Maharashtra
+10463,Pune,Indapur(Nimgaon Ketki),Maharashtra
+10467,Sangli,Islampur,Maharashtra
+10521,Jalgaon,Jalgaon,Maharashtra
+10541,Jalgaon,Jalgaon(Masawat),Maharashtra
+10542,Satara,Jawali,Maharashtra
+10562,Kolhapur,Jaysingpur,Maharashtra
+10583,Parbhani,Jintur,Maharashtra
+10592,Nashik,Kalvan,Maharashtra
+10620,Thane,Kalyan,Maharashtra
+11369,Satara,Karad,Maharashtra
+11445,Vashim,Karanja,Maharashtra
+11449,Ahmednagar,Karjat,Maharashtra
+14233,Raigad,Karjat(Raigad),Maharashtra
+14429,Raigad,Khalanpur,Maharashtra
+14533,Pune,Khed(Chakan),Maharashtra
+14539,Nanded,Kinwat,Maharashtra
+14540,Kolhapur,Kolhapur,Maharashtra
+15123,Kolhapur,Kolhapur(Laxmipuri),Maharashtra
+17697,Chandrapur,Korpana,Maharashtra
+17707,Sholapur,Kurdwadi,Maharashtra
+17710,Sholapur,Kurdwadi(Modnimb),Maharashtra
+17722,Bhandara,Lakhandur,Maharashtra
+17973,Nashik,Lasalgaon,Maharashtra
+18027,Nashik,Lasalgaon(Niphad),Maharashtra
+18033,Latur,Latur,Maharashtra
+18038,Raigad,Mahad,Maharashtra
+18087,Buldhana,Malkapur,Maharashtra
+18101,Nagpur,Mandhal,Maharashtra
+18139,Raigad,Mangaon,Maharashtra
+20902,Vashim,Mangrulpeer,Maharashtra
+20952,Mumbai,Mumbai,Maharashtra
+24026,Raigad,Murud,Maharashtra
+25463,Nagpur,Nagpur,Maharashtra
+28514,Nagpur,Nagpur(Hingna),Maharashtra
+28515,Nanded,Nanded,Maharashtra
+28516,Nandurbar,Nandurbar,Maharashtra
+28711,Nandurbar,Navapur,Maharashtra
+28826,Ahmednagar,Newasa,Maharashtra
+28827,Pune,Nira,Maharashtra
+28913,Pune,Nira(Saswad),Maharashtra
+29036,Jalgaon,Pachora,Maharashtra
+29057,Thane,Palghar,Maharashtra
+31652,Satara,Palthan,Maharashtra
+31671,Yavatmal,Pandhakawada,Maharashtra
+31672,Sholapur,Pandharpur,Maharashtra
+31683,Raigad,Panvel,Maharashtra
+32085,Nagpur,Parshiwani,Maharashtra
+32088,Satara,Patan,Maharashtra
+32089,Bhandara,Pavani,Maharashtra
+32090,Raigad,Pen,Maharashtra
+35054,Pune,Pune,Maharashtra
+37354,Pune,Pune(Pimpri),Maharashtra
+37358,Yavatmal,Pusad,Maharashtra
+37364,Ahmednagar,Rahuri,Maharashtra
+37368,Nagpur,Ramtek,Maharashtra
+37385,Ratnagiri,Ratnagiri (Nachane),Maharashtra
+37603,Jalgaon,Raver,Maharashtra
+37645,Raigad,Roha,Maharashtra
+37652,Dhule,Sakri,Maharashtra
+37656,Ahmednagar,Sangamner,Maharashtra
+37660,Sangli,Sangli,Maharashtra
+40658,Nashik,Satana,Maharashtra
+40686,Satara,Satara,Maharashtra
+40741,Chandrapur,Savali,Maharashtra
+40751,Nagpur,Savner,Maharashtra
+40752,Nandurbar,Shahada,Maharashtra
+40759,Dhule,Shirpur,Maharashtra
+40761,Pune,Shirur,Maharashtra
+40763,Ahmednagar,Shrirampur,Maharashtra
+40780,Nashik,Sinner,Maharashtra
+40898,Sholapur,Solapur,Maharashtra
+45412,Nashik,Suragana,Maharashtra
+45471,Gondiya,Tiroda,Maharashtra
+45472,Osmanabad,Tuljapur,Maharashtra
+45483,Bhandara,Tumsar,Maharashtra
+48806,Thane,Ulhasnagar,Maharashtra
+49854,Nagpur,Umared,Maharashtra
+50748,Osmanabad,Umarga,Maharashtra
+50752,Aurangabad,Vaijpur,Maharashtra
+50753,Chandrapur,Varora,Maharashtra
+50773,Thane,Vasai,Maharashtra
+52509,Sangli,Vita,Maharashtra
+52512,Osmanabad,Washi(Thane Market),Maharashtra
+0,Bishnupur,Bishenpur,Manipur
+1104,Imphal West,Imphal,Manipur
+3407,Imphal East,Lamlong Bazaar,Manipur
+5718,Chandel,Moreh,Manipur
+5876,Thoubal,Thoubal,Manipur
+0,South Garo Hills,Baghmara,Meghalaya
+2,West Garo Hills,Garobadha,Meghalaya
+260,West Jaintia Hills,Jowai,Meghalaya
+761,East Jaintia Hills,Khliehriat,Meghalaya
+926,West Jaintia Hills,Laskein,Meghalaya
+1013,South West Khasi Hills,Mawkyrwat,Meghalaya
+1024,Nongpoh (R-Bhoi),Nongpoh (R-Bhoi),Meghalaya
+1368,West Garo Hills,Rongram,Meghalaya
+1370,East Khasi Hills,Shillong,Meghalaya
+3148,West Jaintia Hills,Wahiajer,Meghalaya
+0,Keonjhar,Anandapur,Odisha
+168,Angul,Angaura,Odisha
+175,Angul,Angul,Odisha
+1699,Angul,Angul(Atthamallick),Odisha
+1701,Angul,Angul(Jarapada),Odisha
+2389,Bargarh,Attabira,Odisha
+5023,Nayagarh,Bahadajholla,Odisha
+5598,Khurda,Balugaon,Odisha
+7992,Balasore,Bampada,Odisha
+9344,Cuttack,Banki,Odisha
+9681,Bargarh,Bargarh,Odisha
+11293,Bargarh,Bargarh(Barapalli),Odisha
+11758,Balasore,Barikpur,Odisha
+11859,Mayurbhanja,Baripada,Odisha
+14388,Mayurbhanja,Betnoti,Odisha
+14861,Bhadrak,Bhadrak,Odisha
+15433,Ganjam,Bhanjanagar,Odisha
+17507,Kalahandi,Bhawanipatna,Odisha
+18020,Sonepur,Birmaharajpur,Odisha
+18380,Bolangir,Bolangir,Odisha
+19443,Bolangir,Bolangir(Patnagarh),Odisha
+19444,Sundergarh,Bonai,Odisha
+19448,Boudh,Boudh,Odisha
+21216,Keonjhar,Champua,Odisha
+21227,Bhadrak,Chandabali,Odisha
+22644,Kendrapara,Chatta Krushak Bazar,Odisha
+22645,Deogarh,Deogarh,Odisha
+24922,Dhenkanal,Dhenkanal,Odisha
+25033,Ganjam,Digapahandi,Odisha
+25912,Puri,Dumal,Odisha
+25916,Sonepur,Dungurapalli,Odisha
+25922,Puri,Gabadkunda,Odisha
+25941,Bargarh,Godabhaga,Odisha
+26073,Kendrapara,Gopa,Odisha
+26079,Rayagada,Gunpur,Odisha
+27167,Dhenkanal,Hindol,Odisha
+27334,Ganjam,Hinjilicut,Odisha
+28610,Jagatsinghpur,Jagatsinghpur,Odisha
+31585,Jajpur,Jajpur,Odisha
+33200,Balasore,Jaleswar,Odisha
+33205,Khurda,Jatni,Odisha
+34809,Koraput,Jeypore,Odisha
+35202,Koraput,Jeypore(Kotpad),Odisha
+35463,Jharsuguda,Jharsuguda,Odisha
+35874,Jajpur,Jhumpura,Odisha
+35962,Kalahandi,Junagarh,Odisha
+36752,Kalahandi,Kalahandi(Dharamagarh),Odisha
+37070,Kandhamal,Kandhamal,Odisha
+37176,Bolangir,Kantabaji,Odisha
+37202,Gajapati,Kasinagar,Odisha
+38059,Kendrapara,Kendrapara,Odisha
+39361,Kendrapara,Kendrapara(Marshaghai),Odisha
+39429,Cuttack,Kendupatna,Odisha
+40352,Cuttack,Kendupatna(Niali),Odisha
+40392,Keonjhar,Keonjhar,Odisha
+42161,Keonjhar,Keonjhar(Dhekikote),Odisha
+43073,Kalahandi,Kesinga,Odisha
+43790,Nuapada,Khariar Road,Odisha
+43889,Malkangiri,Malkanagiri,Odisha
+44173,Malkangiri,Malkangiri(Korakunda),Odisha
+44177,Kalahandi,Mukhiguda,Odisha
+44391,Nowarangpur,Nabarangpur(Umerkote),Odisha
+44393,Nowarangpur,Nawarangpur,Odisha
+45135,Balasore,Nilagiri,Odisha
+45153,Puri,Nimapara,Odisha
+47319,Bargarh,Padampur,Odisha
+49631,Sundergarh,Panposh,Odisha
+50167,Gajapati,Parlakhemundi,Odisha
+51771,Puri,Puri(Brahmagiri),Odisha
+52067,Sambalpur,Rairakhol,Odisha
+52077,Rayagada,Rayagada,Odisha
+52719,Rayagada,Rayagada(Muniguda),Odisha
+53163,Keonjhar,Saharpada,Odisha
+53308,Bhadrak,Sahidngar,Odisha
+53319,Puri,Sakhigopal,Odisha
+55504,Sambalpur,Sambalpur,Odisha
+56910,Nayagarh,Sarankul,Odisha
+56912,Mayurbhanja,Saraskana,Odisha
+56913,Sundergarh,Sargipali,Odisha
+56925,Bargarh,Sohela,Odisha
+57385,Angul,Talcher,Odisha
+58035,Bolangir,Tusura,Odisha
+58410,Mayurbhanja,Udala,Odisha
+78242,Mayurbhanja,Karanjia,Odisha
+85980,Angul,Pallahara,Odisha
+86015,Kendrapara,Pattamundai,Odisha
+86060,Jagatsinghpur,Rahama,Odisha
+87788,Deogarh,Tileibani,Odisha
+0,Fazilka,Abohar,Punjab
+31,Amritsar,Ajnala,Punjab
+40,Muktsar,Bariwala,Punjab
+104,Barnala,Barnala,Punjab
+110,Fatehgarh,Bassi Pathana,Punjab
+111,Gurdaspur,Batala,Punjab
+112,Tarntaran,Bhikhiwind,Punjab
+271,Tarntaran,Bhikhiwind(Khalra),Punjab
+408,kapurthala,Dhilwan,Punjab
+425,Gurdaspur,Dinanagar,Punjab
+426,Patiala,Dudhansadhan,Punjab
+477,Amritsar,Gehri,Punjab
+478,Ludhiana,Jagraon,Punjab
+640,Faridkot,Jaitu,Punjab
+642,Fazilka,Jalalabad,Punjab
+697,Jalandhar,Jalandhar City,Punjab
+703,Jalandhar,Jalandhar City(Jalandhar),Punjab
+705,kapurthala,Kapurthala,Punjab
+737,Tarntaran,Khadur Sahib,Punjab
+738,Tarntaran,Khem karan,Punjab
+888,Tarntaran,Khemkaran (Amarkot),Punjab
+916,Faridkot,Kotkapura,Punjab
+1316,Mohali,Lalru,Punjab
+1320,Amritsar,Majitha,Punjab
+1322,Muktsar,Malout,Punjab
+1359,Muktsar,Muktsar,Punjab
+1418,Ludhiana,Mullanpur,Punjab
+1419,Patiala,Patiala,Punjab
+1420,kapurthala,Phagwara,Punjab
+1422,Patiala,Rajpura,Punjab
+1423,Faridkot,Sadiq,Punjab
+1429,Patiala,Samana,Punjab
+2341,kapurthala,Sultanpur,Punjab
+2345,Sangrur,Sunam,Punjab
+2346,Tarntaran,Tarantaran,Punjab
+0,Sirohi,Abu Road,Rajasthan
+3,Ajmer,Beawar,Rajasthan
+11,Bhilwara,Bhilwara,Rajasthan
+12,Ajmer,Bijay Nagar,Rajasthan
+120,Bundi,Bundi,Rajasthan
+121,Sikar,Fatehpur,Rajasthan
+2174,Hanumangarh,Hanumangarh,Rajasthan
+2185,Hanumangarh,Hanumangarh Town,Rajasthan
+2186,Jaipur,Jaipur (Grain),Rajasthan
+2187,Ganganagar,Jaitsar,Rajasthan
+2291,Tonk,Niwai,Rajasthan
+2292,Bikaner,Nokha,Rajasthan
+2294,Ganganagar,Padampur,Rajasthan
+2314,Chittorgarh,Pratapgarh,Rajasthan
+2323,Hanumangarh,Suratgarh,Rajasthan
+0,Khowai,Bachaibari,Tripura
+175,South District,Barpathari,Tripura
+195,South District,Biokhora,Tripura
+203,Sepahijala,Bishalgarh,Tripura
+5502,Sepahijala,Bishramganj,Tripura
+5943,Sepahijala,Boxonagar,Tripura
+5975,West District,Champaknagar,Tripura
+6738,Dhalai,Chowmanu,Tripura
+6846,North Tripura,Dasda,Tripura
+7503,Dhalai,Gandacharra,Tripura
+7629,Gomati,Garjee,Tripura
+8006,Dhalai,Halahali,Tripura
+8028,Sepahijala,Jumpuijala,Tripura
+8786,South District,Kalsi,Tripura
+8849,Khowai,Kalyanpur,Tripura
+9492,West District,Kamalghat,Tripura
+9724,Dhalai,Kulai,Tripura
+10479,South District,Manubazar,Tripura
+10527,Dhalai,Masli,Tripura
+10533,Sepahijala,Melaghar,Tripura
+15360,West District,Mohanpur,Tripura
+16610,Gomati,Nutanbazar,Tripura
+16971,Unokoti,Pabiacherra,Tripura
+20139,Unokoti,Panichowki,Tripura
+20426,North Tripura,Panisagar,Tripura
+22145,South District,Santir Bazar,Tripura
+24203,Gomati,Silachhari,Tripura
+24325,Sepahijala,Sonamura,Tripura
+24580,Khowai,Teliamura,Tripura
+0,UdhamSinghNagar,Bazpur,Uttarakhand
+1839,Dehradoon,Dehradoon,Uttarakhand
+2767,UdhamSinghNagar,Gadarpur,Uttarakhand
+6477,Nanital,Haldwani,Uttarakhand
+6498,Haridwar,Haridwar Union,Uttarakhand
+7105,UdhamSinghNagar,Jaspur(UC),Uttarakhand
+7371,UdhamSinghNagar,Kashipur,Uttarakhand
+7468,UdhamSinghNagar,Khateema,Uttarakhand
+7472,UdhamSinghNagar,Kicchha,Uttarakhand
+7960,Garhwal (Pauri),Kotadwara,Uttarakhand
+8905,Haridwar,Lakshar,Uttarakhand
+8913,Haridwar,Manglaur,Uttarakhand
+8915,UdhamSinghNagar,Nanakmatta,Uttarakhand
+8917,Nanital,Ramnagar,Uttarakhand
+9377,Dehradoon,Rishikesh,Uttarakhand
+9703,Haridwar,Roorkee,Uttarakhand
+10677,UdhamSinghNagar,Rudrapur,Uttarakhand
+11524,UdhamSinghNagar,Sitarganj,Uttarakhand
+11534,Champawat,Tanakpur,Uttarakhand
+12212,Dehradoon,Vikasnagar,Uttarakhand
+0,Agra,Agra,Uttar_Pradesh
+234,Jalaun (Orai),Ait,Uttar_Pradesh
+235,Allahabad,Ajuha,Uttar_Pradesh
+236,Aligarh,Aligarh,Uttar_Pradesh
+396,Allahabad,Allahabad,Uttar_Pradesh
+505,Jyotiba Phule Nagar,Amroha,Uttar_Pradesh
+717,Auraiya,Auraiya,Uttar_Pradesh
+763,Azamgarh,Azamgarh,Uttar_Pradesh
+1004,Raebarelli,Bachranwa,Uttar_Pradesh
+1005,Badaun,Badayoun,Uttar_Pradesh
+1253,Bahraich,Bahraich,Uttar_Pradesh
+1596,Ballia,Ballia,Uttar_Pradesh
+1859,Banda,Banda,Uttar_Pradesh
+1925,Unnao,Bangarmau,Uttar_Pradesh
+1926,Barabanki,Barabanki,Uttar_Pradesh
+2000,Baghpat,Baraut,Uttar_Pradesh
+2270,Bareilly,Bareilly,Uttar_Pradesh
+2634,Basti,Basti,Uttar_Pradesh
+2892,Hamirpur,Bharuasumerpur,Uttar_Pradesh
+2901,Kaushambi,Bharwari,Uttar_Pradesh
+2902,Bijnor,Bijnaur,Uttar_Pradesh
+3155,Fatehpur,Bindki,Uttar_Pradesh
+3156,Bulandshahar,Buland Shahr,Uttar_Pradesh
+3333,Bijnor,Chaandpur,Uttar_Pradesh
+3338,Muradabad,Chandausi,Uttar_Pradesh
+3570,Chandauli,Chandoli,Uttar_Pradesh
+3623,Aligarh,Charra,Uttar_Pradesh
+3728,Jhansi,Chirgaon,Uttar_Pradesh
+3781,Gorakhpur,Chorichora,Uttar_Pradesh
+3812,Deoria,Devariya,Uttar_Pradesh
+4033,Saharanpur,Devband,Uttar_Pradesh
+4034,Bulandshahar,Divai,Uttar_Pradesh
+4055,Mau(Maunathbhanjan),Doharighat,Uttar_Pradesh
+4082,Etawah,Etawah,Uttar_Pradesh
+4192,Faizabad,Faizabad,Uttar_Pradesh
+4485,Farukhabad,Farukhabad,Uttar_Pradesh
+4687,Firozabad,Firozabad,Uttar_Pradesh
+4890,Maharajganj,Gadaura,Uttar_Pradesh
+4918,Saharanpur,Gangoh,Uttar_Pradesh
+4980,Ghazipur,Gazipur,Uttar_Pradesh
+5243,Ghaziabad,Ghaziabad,Uttar_Pradesh
+5840,Gonda,Gonda,Uttar_Pradesh
+5878,Gorakhpur,Gorakhpur,Uttar_Pradesh
+6149,Jhansi,Gurusarai,Uttar_Pradesh
+6186,Hathras,Haathras,Uttar_Pradesh
+6273,Ghaziabad,Hapur,Uttar_Pradesh
+6614,Hardoi,Hardoi,Uttar_Pradesh
+6624,Jalaun (Orai),Jalaun,Uttar_Pradesh
+6681,Agra,Jarar,Uttar_Pradesh
+6690,Jaunpur,Jaunpur,Uttar_Pradesh
+6965,Raebarelli,Jayas,Uttar_Pradesh
+6966,Jhansi,Jhansi,Uttar_Pradesh
+7181,Kanpur,Kanpur(Grain),Uttar_Pradesh
+7413,Chitrakut,Karvi,Uttar_Pradesh
+7462,Etah,Kasganj,Uttar_Pradesh
+7546,Aligarh,Khair,Uttar_Pradesh
+7626,Agra,Khairagarh,Uttar_Pradesh
+7639,Muzaffarnagar,Khatauli,Uttar_Pradesh
+7922,Baghpat,Khekda,Uttar_Pradesh
+7923,Bulandshahar,Khurja,Uttar_Pradesh
+7943,Jalaun (Orai),Konch,Uttar_Pradesh
+8009,Mau(Maunathbhanjan),Kopaganj,Uttar_Pradesh
+8039,Mathura,Kosikalan,Uttar_Pradesh
+8110,Lakhimpur,Lakhimpur,Uttar_Pradesh
+8359,Raebarelli,Lalganj,Uttar_Pradesh
+8362,Lalitpur,Lalitpur,Uttar_Pradesh
+8547,Lucknow,Lucknow,Uttar_Pradesh
+8706,Mahoba,Mahoba,Uttar_Pradesh
+8721,Mainpuri,Mainpuri,Uttar_Pradesh
+8879,Meerut,Mawana,Uttar_Pradesh
+8909,Meerut,Meerut,Uttar_Pradesh
+9244,Lalitpur,Mehrauni,Uttar_Pradesh
+9245,Mirzapur,Mirzapur,Uttar_Pradesh
+9342,Jhansi,Moth,Uttar_Pradesh
+9371,Muradabad,Muradabad,Uttar_Pradesh
+9475,Ghaziabad,Muradnagar,Uttar_Pradesh
+9574,Muzaffarnagar,Muzzafarnagar,Uttar_Pradesh
+10306,Bijnor,Najibabad,Uttar_Pradesh
+10310,Maharajganj,Nautnava,Uttar_Pradesh
+10339,Jalaun (Orai),Orai,Uttar_Pradesh
+10420,Maharajganj,Partaval,Uttar_Pradesh
+10449,Pillibhit,Pilibhit,Uttar_Pradesh
+10722,Pratapgarh,Pratapgarh,Uttar_Pradesh
+10748,Kanpur,Pukhrayan,Uttar_Pradesh
+10856,Pillibhit,Puranpur,Uttar_Pradesh
+10867,Shahjahanpur,Puwaha,Uttar_Pradesh
+10954,Raebarelli,Raibareilly,Uttar_Pradesh
+11186,Rampur,Rampur,Uttar_Pradesh
+11534,Saharanpur,Rampurmaniharan,Uttar_Pradesh
+11555,Saharanpur,Saharanpur,Uttar_Pradesh
+11633,Agra,Samsabad,Uttar_Pradesh
+11638,Meerut,Sardhana,Uttar_Pradesh
+11741,Shahjahanpur,Shahjahanpur,Uttar_Pradesh
+11966,Muzaffarnagar,Shamli,Uttar_Pradesh
+12211,Bulandshahar,Sikanderabad,Uttar_Pradesh
+12215,Hathras,Sikandraraau,Uttar_Pradesh
+12290,Sitapur,Sitapur,Uttar_Pradesh
+12623,Bulandshahar,Siyana,Uttar_Pradesh
+12624,Sultanpur,Sultanpur,Uttar_Pradesh
+12683,Padrauna(Kusinagar),Tamkuhi Road,Uttar_Pradesh
+12712,Shahjahanpur,Tilhar,Uttar_Pradesh
+12713,Badaun,Ujhani,Uttar_Pradesh
+12717,Unnao,Unnao,Uttar_Pradesh
+13082,Varanasi,Varanasi(Grain),Uttar_Pradesh
+13404,Pillibhit,Vishalpur,Uttar_Pradesh
+13406,Siddharth Nagar,Wansi,Uttar_Pradesh
+13430,Agra,Achnera,Uttar_Pradesh
+13729,Mirzapur,Ahirora,Uttar_Pradesh
+13990,Ambedkarnagar,Akbarpur,Uttar_Pradesh
+13999,Etah,Aliganj,Uttar_Pradesh
+14617,Maharajganj,Anandnagar,Uttar_Pradesh
+14630,Bareilly,Anwala,Uttar_Pradesh
+14659,Banda,Atarra,Uttar_Pradesh
+14701,Aligarh,Atrauli,Uttar_Pradesh
+14898,Etah,Awagarh,Uttar_Pradesh
+15098,Banda,Baberu,Uttar_Pradesh
+15309,Bareilly,Bahedi,Uttar_Pradesh
+15755,Balrampur,Balrampur,Uttar_Pradesh
+16072,Lucknow,Banthara,Uttar_Pradesh
+16467,Jhansi,Baruwasagar,Uttar_Pradesh
+16661,Muradabad,Bhehjoi,Uttar_Pradesh
+16894,Badaun,Bilsi,Uttar_Pradesh
+17577,Farukhabad,Chhibramau,Uttar_Pradesh
+17580,Kannuj,Chhibramau(Kannuj),Uttar_Pradesh
+17685,Ballia,Chitwadagaon,Uttar_Pradesh
+17765,Saharanpur,Chutmalpur,Uttar_Pradesh
+17766,Gautam Budh Nagar,Dadri,Uttar_Pradesh
+18023,Jyotiba Phule Nagar,Dhanura,Uttar_Pradesh
+18158,Sonbhadra,Dudhi,Uttar_Pradesh
+18227,Etah,Etah,Uttar_Pradesh
+18700,Agra,Fatehabad,Uttar_Pradesh
+18812,Agra,Fatehpur Sikri,Uttar_Pradesh
+19134,Etah,Ganjdudwara,Uttar_Pradesh
+19620,Mainpuri,Ghiraur,Uttar_Pradesh
+19803,Bhadohi(Sant Ravi Nagar),Gopiganj,Uttar_Pradesh
+20276,Bijnor,Haldaur,Uttar_Pradesh
+20591,Sitapur,Hargaon (Laharpur),Uttar_Pradesh
+20592,Jyotiba Phule Nagar,Hasanpur,Uttar_Pradesh
+20666,Agra,Jagnair,Uttar_Pradesh
+20753,Fatehpur,Jahanabad,Uttar_Pradesh
+20807,Shahjahanpur,Jalalabad,Uttar_Pradesh
+20972,Allahabad,Jasra,Uttar_Pradesh
+21026,Etawah,Jasvantnagar,Uttar_Pradesh
+21463,Farukhabad,Kamlaganj,Uttar_Pradesh
+21488,Kannuj,Kannauj,Uttar_Pradesh
+21743,Farukhabad,Kayamganj,Uttar_Pradesh
+22053,Sant Kabir Nagar,Khalilabad,Uttar_Pradesh
+22165,Bijnor,Kiratpur,Uttar_Pradesh
+22201,Fatehpur,Kishunpur,Uttar_Pradesh
+23222,Hardoi,Madhoganj,Uttar_Pradesh
+23256,Jalaun (Orai),Madhogarh,Uttar_Pradesh
+23449,Sitapur,Maholi,Uttar_Pradesh
+23450,Khiri (Lakhimpur),Maigalganj,Uttar_Pradesh
+23534,Chitrakut,Mau(Chitrakut),Uttar_Pradesh
+23543,Hamirpur,Maudaha,Uttar_Pradesh
+23560,Jhansi,Mauranipur,Uttar_Pradesh
+23840,Sitapur,Mehmoodabad,Uttar_Pradesh
+24075,Sitapur,Misrikh,Uttar_Pradesh
+24076,Farukhabad,Mohamadabad,Uttar_Pradesh
+24082,Khiri (Lakhimpur),Mohammdi,Uttar_Pradesh
+24259,Jaunpur,Mugrabaadshahpur,Uttar_Pradesh
+24710,Bahraich,Naanpara,Uttar_Pradesh
+24713,Bijnor,Nagina,Uttar_Pradesh
+24737,Siddharth Nagar,Naugarh,Uttar_Pradesh
+24926,Gonda,Nawabganj,Uttar_Pradesh
+25130,Lakhimpur,Paliakala,Uttar_Pradesh
+25132,Balrampur,Panchpedwa,Uttar_Pradesh
+25156,Meerut,Parikshitgarh,Uttar_Pradesh
+25341,Shravasti,Payagpur,Uttar_Pradesh
+25651,Unnao,Purwa,Uttar_Pradesh
+26272,Bahraich,Risia,Uttar_Pradesh
+26279,Sonbhadra,Robertsganj,Uttar_Pradesh
+26564,Siddharth Nagar,Sahiyapur,Uttar_Pradesh
+26603,Raebarelli,Salon,Uttar_Pradesh
+26607,Muradabad,Sambhal,Uttar_Pradesh
+26731,Hardoi,Sandi,Uttar_Pradesh
+26745,Hardoi,Sandila,Uttar_Pradesh
+26825,Gorakhpur,Sehjanwa,Uttar_Pradesh
+26871,Hathras,Shadabad,Uttar_Pradesh
+26936,Rampur,Shahabad,Uttar_Pradesh
+26962,Jaunpur,Shahganj,Uttar_Pradesh
+27181,Muzaffarnagar,Shahpur,Uttar_Pradesh
+27483,Siddharth Nagar,Soharatgarh,Uttar_Pradesh
+27749,Ambedkarnagar,Tanda,Uttar_Pradesh
+27823,Khiri (Lakhimpur),Tikonia,Uttar_Pradesh
+27886,Balrampur,Tulsipur,Uttar_Pradesh
+27920,Firozabad,Tundla,Uttar_Pradesh
+28192,Balrampur,Utraula,Uttar_Pradesh
+28194,Varanasi,Varanasi(F&V),Uttar_Pradesh
+28413,Kanpur,Varipaal,Uttar_Pradesh
+28465,Rampur,Vilaspur,Uttar_Pradesh
+28466,Ballia,Vilthararoad,Uttar_Pradesh
+28512,Sitapur,Viswan,Uttar_Pradesh
+28548,Ghazipur,Yusufpur,Uttar_Pradesh
+28553,Auraiya,Achalda,Uttar_Pradesh
+31285,Etawah,Bharthna,Uttar_Pradesh
+32297,Auraiya,Dibiapur,Uttar_Pradesh
+33694,Bulandshahar,Gulavati,Uttar_Pradesh
+34225,Sultanpur,Jafarganj,Uttar_Pradesh
+34944,Kanpur,Jhijhank,Uttar_Pradesh
+34961,Jalaun (Orai),Kadaura,Uttar_Pradesh
+34965,Jalaun (Orai),Kalpi,Uttar_Pradesh
+35323,Gonda,Karnailganj,Uttar_Pradesh
+35564,Fatehpur,Khaga,Uttar_Pradesh
+36952,Mathura,Mathura,Uttar_Pradesh
+37289,Bahraich,Mihipurwa,Uttar_Pradesh
+39218,Ballia,Rasda,Uttar_Pradesh
+39306,Kanpur,Rura,Uttar_Pradesh
+39358,Barabanki,Safdarganj,Uttar_Pradesh
+39955,Hardoi,Shahabad(New Mandi),Uttar_Pradesh
+40225,Firozabad,Shikohabad,Uttar_Pradesh
+40226,Allahabad,Sirsa,Uttar_Pradesh
+40227,Firozabad,Sirsaganj,Uttar_Pradesh
+40604,Rampur,Tanda(Rampur),Uttar_Pradesh
+42088,Bulandshahar,Anoop Shahar,Uttar_Pradesh
+43659,Mainpuri,Bewar,Uttar_Pradesh
+44589,Kanpur,Choubepur,Uttar_Pradesh
+44882,Bijnor,Dhampur,Uttar_Pradesh
+45724,Fatehpur,Fatehpur,Uttar_Pradesh
+47148,Bulandshahar,Jahangirabad,Uttar_Pradesh
+47182,Ghazipur,Jamanian,Uttar_Pradesh
+47183,Ghazipur,Jangipura,Uttar_Pradesh
+47604,Gautam Budh Nagar,Javer,Uttar_Pradesh
+51393,Hamirpur,Raath,Uttar_Pradesh
+51808,Barabanki,Rudauli,Uttar_Pradesh
+53062,Bulandshahar,Sikarpur,Uttar_Pradesh
+53581,Saharanpur,Sultanpurchilkana,Uttar_Pradesh
+54008,Kanpur,Uttaripura,Uttar_Pradesh
+55518,Badaun,Babrala,Uttar_Pradesh
+56820,Pillibhit,Billsadda,Uttar_Pradesh
+57514,Gautam Budh Nagar,Dankaur,Uttar_Pradesh
+57518,Badaun,Dataganj,Uttar_Pradesh
+58884,Lakhimpur,Golagokarnath,Uttar_Pradesh
+59336,Hamirpur,Hamirpur,Uttar_Pradesh
+61134,Hamirpur,Kurara,Uttar_Pradesh
+63730,Bahraich,Ruperdeeha,Uttar_Pradesh
+64001,Ghazipur,Saidpur,Uttar_Pradesh
+64375,Badaun,Shahaswan,Uttar_Pradesh
+65676,Badaun,Visoli,Uttar_Pradesh
+65691,Badaun,Wazirganj,Uttar_Pradesh
+67539,Shahjahanpur,Badda,Uttar_Pradesh
+68353,Deoria,Barhaj,Uttar_Pradesh
+75759,Maharajganj,Maharajganj,Uttar_Pradesh
+76226,Mau(Maunathbhanjan),Mau,Uttar_Pradesh
+77038,Hamirpur,Muskara,Uttar_Pradesh
+79019,Bareilly,Richha,Uttar_Pradesh
+87976,Rampur,Milak,Uttar_Pradesh
+90171,Sitapur,Sindholi,Uttar_Pradesh
+0,Jalpaiguri,Alipurduar,West_Bengal
+866,Dakshin Dinajpur,Balurghat,West_Bengal
+1141,Bankura,Bankura Sadar,West_Bengal
+1586,North 24 Parganas,Barasat,West_Bengal
+2713,Sounth 24 Parganas,Baruipur(Canning),West_Bengal
+2833,Jalpaiguri,Belacoba,West_Bengal
+2945,Murshidabad,Beldanga,West_Bengal
+2966,Nadia,Bethuadahari,West_Bengal
+3550,Birbhum,Birbhum,West_Bengal
+4101,Bankura,Bishnupur(Bankura),West_Bengal
+4586,Birbhum,Bolpur,West_Bengal
+5077,Burdwan,Burdwan,West_Bengal
+5851,Hooghly,Champadanga,West_Bengal
+6577,Coochbehar,Coochbehar,West_Bengal
+6876,Coochbehar,Dinhata,West_Bengal
+7009,Burdwan,Durgapur,West_Bengal
+7012,Medinipur(E),Egra/contai,West_Bengal
+7349,Malda,English Bazar,West_Bengal
+7772,Medinipur(W),Ghatal,West_Bengal
+8195,Burdwan,Guskara,West_Bengal
+8196,North 24 Parganas,Habra,West_Bengal
+8217,Coochbehar,Haldibari,West_Bengal
+8403,Bankura,Indus,West_Bengal
+8409,Uttar Dinajpur,Islampur,West_Bengal
+8522,Jalpaiguri,Jalpaiguri Sadar,West_Bengal
+10296,Murshidabad,Jangipur,West_Bengal
+10343,Medinipur(W),Jhargram,West_Bengal
+10412,Uttar Dinajpur,Kaliaganj,West_Bengal
+10595,Darjeeling,Kalimpong,West_Bengal
+10839,Hooghly,Kalipur(Champadanga),West_Bengal
+10856,Burdwan,Kalna,West_Bengal
+11563,Nadia,Kalyani,West_Bengal
+11749,Nadia,Karimpur,West_Bengal
+11998,Murshidabad,Kasimbazar,West_Bengal
+12172,Burdwan,Katwa,West_Bengal
+12452,Bankura,Khatra,West_Bengal
+12454,Murshidabad,Lalbagh,West_Bengal
+12838,Coochbehar,Mathabhanga,West_Bengal
+13026,Medinipur(W),Medinipur(West),West_Bengal
+13163,Burdwan,Memari,West_Bengal
+13323,Medinipur(W),Midnapore Sadar,West_Bengal
+13347,Nadia,Nadia,West_Bengal
+13613,Hooghly,Pandua,West_Bengal
+14194,Coochbehar,Pundibari,West_Bengal
+14282,Puruliya,Purulia,West_Bengal
+14806,Uttar Dinajpur,Raiganj(Kalinganj),West_Bengal
+14814,Howrah,Ramkrishanpur(Howrah),West_Bengal
+14991,Birbhum,Rampurhat,West_Bengal
+15123,Birbhum,Sainthia(Suri),West_Bengal
+15130,Malda,Samsi,West_Bengal
+15494,Medinipur(E),Tamluk (Medinipur E),West_Bengal
+16032,Coochbehar,Toofanganj,West_Bengal
+16716,Burdwan,Asansol,West_Bengal
+18513,Coochbehar,Baxirhat,West_Bengal
+20858,Nadia,Chakdah,West_Bengal
+21922,Darjeeling,Darjeeling(Klimpong),West_Bengal
+21923,North 24 Parganas,Diamond Harbour,West_Bengal
+23786,Jalpaiguri,Falakata(Dhupguri),West_Bengal
+24272,Malda,Gajol,West_Bengal
+24415,Dakshin Dinajpur,Gangarampur,West_Bengal
+25489,Howrah,Howrah,West_Bengal
+27188,Murshidabad,Jiaganj(Lalbagh),West_Bengal
+29659,Murshidabad,Kandi,West_Bengal
+30427,Medinipur(W),Kolaghat,West_Bengal
+31259,Coochbehar,Mekhliganj,West_Bengal
+34987,Kolkata,Sealdah Koley Market,West_Bengal
+35523,Hooghly,Sheoraphuly,West_Bengal
+37045,Puruliya,Balarampur,West_Bengal
+39862,Birbhum,Bishnupur,West_Bengal
+42080,Hooghly,ChinSurah,West_Bengal
+42524,Darjeeling,Darjeeling,West_Bengal
+42911,Sounth 24 Parganas,Diamond Harbour(South 24-pgs),West_Bengal
+44262,Jalpaiguri,Falakata,West_Bengal
+44944,Medinipur(W),Garbeta(Medinipur),West_Bengal
+45398,Burdwan,Guskara(Burdwan),West_Bengal
+46010,Bankura,Indus(Bankura Sadar),West_Bengal
+47629,Murshidabad,Jiaganj,West_Bengal
+48203,Hooghly,Kalipur,West_Bengal
+50324,Darjeeling,Karsiyang(Matigara),West_Bengal
+50499,Puruliya,Kasipur,West_Bengal
+51084,Medinipur(E),Kolaghat,West_Bengal
+53568,Uttar Dinajpur,Raiganj,West_Bengal
+54584,Nadia,Ranaghat,West_Bengal
+54647,Nadia,Ranaghat(Kalyani),West_Bengal
+54650,Birbhum,Sainthia,West_Bengal
+56233,Darjeeling,Siliguri,West_Bengal
+56716,Howrah,Uluberia,West_Bengal
+62674,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur),West_Bengal
