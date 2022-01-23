@@ -1,7 +1,6 @@
 # prayatna-app
 
-## Tags:
-#deep-learning, #python, #jupyter-notebook, #kivy
+## #deep-learning, #python, #jupyter-notebook, #kivy
 
 ## Quick Description: 
 An application powered by neural networks created as part of our final project that is centred on solving Indian farmer issues specifically getting the right price for their crops at the market(Mandi) near to them.
