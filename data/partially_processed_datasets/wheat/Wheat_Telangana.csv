@@ -1,0 +1,1158 @@
+Sl no.,District Name,Market Name,Commodity,Variety,Grade,Min Price (Rs./Quintal),Max Price (Rs./Quintal),Modal Price (Rs./Quintal),Price Date
+1,Adilabad,Adilabad,Wheat,Dara,FAQ,0,0,1160,29-Sep-10
+2,Adilabad,Adilabad,Wheat,Dara,FAQ,0,0,1180,28-Sep-10
+3,Adilabad,Adilabad,Wheat,Dara,FAQ,0,0,1190,27-Sep-10
+4,Adilabad,Adilabad,Wheat,Local,FAQ,1000,1050,1025,24-Oct-06
+5,Adilabad,Adilabad,Wheat,Local,FAQ,1025,1075,1050,17-Oct-06
+6,Adilabad,Adilabad,Wheat,Lokwan,FAQ,1000,1050,1025,16-Oct-06
+7,Adilabad,Adilabad,Wheat,Lokwan,FAQ,1005,1015,1010,13-Oct-06
+8,Adilabad,Adilabad,Wheat,Lokwan,FAQ,1000,1100,1050,12-Oct-06
+9,Adilabad,Adilabad,Wheat,Lokwan,FAQ,1000,1050,1025,09-Oct-06
+10,Adilabad,Adilabad,Wheat,Lokwan,FAQ,1010,1030,1020,07-Oct-06
+11,Adilabad,Adilabad,Wheat,Lokwan,FAQ,1000,1025,1015,06-Oct-06
+12,Adilabad,Adilabad,Wheat,Lokwan,FAQ,1000,1050,1025,04-Oct-06
+13,Adilabad,Adilabad,Wheat,Lokwan,FAQ,1000,1050,1025,27-Sep-06
+14,Adilabad,Adilabad,Wheat,Lokwan,FAQ,1025,1075,1050,26-Sep-06
+15,Adilabad,Adilabad,Wheat,Lokwan,FAQ,1000,1050,1025,23-Sep-06
+16,Adilabad,Adilabad,Wheat,Lokwan,FAQ,1050,1100,1075,21-Sep-06
+17,Adilabad,Adilabad,Wheat,Lokwan,FAQ,900,1050,975,20-Sep-06
+18,Adilabad,Adilabad,Wheat,Lokwan,FAQ,1000,1010,1005,16-Sep-06
+19,Adilabad,Adilabad,Wheat,Lokwan,FAQ,1010,1030,1020,15-Sep-06
+20,Adilabad,Adilabad,Wheat,Local,FAQ,1000,1050,1025,14-Sep-06
+21,Adilabad,Adilabad,Wheat,Local,FAQ,1025,1075,1050,13-Sep-06
+22,Adilabad,Adilabad,Wheat,Lokwan,FAQ,1025,1075,1025,12-Sep-06
+23,Adilabad,Adilabad,Wheat,Lokwan,FAQ,1000,1050,1025,11-Sep-06
+24,Adilabad,Adilabad,Wheat,Lokwan,FAQ,1005,1025,1015,08-Sep-06
+25,Adilabad,Adilabad,Wheat,Local,FAQ,1000,1050,1025,07-Sep-06
+26,Adilabad,Adilabad,Wheat,Lokwan,FAQ,990,1010,1000,06-Sep-06
+27,Adilabad,Adilabad,Wheat,Local,FAQ,1025,1075,1050,05-Sep-06
+28,Adilabad,Adilabad,Wheat,Lokwan,FAQ,950,1050,1000,04-Sep-06
+29,Adilabad,Adilabad,Wheat,Lokwan,FAQ,1000,1050,1025,01-Sep-06
+30,Adilabad,Adilabad,Wheat,Lokwan,FAQ,1005,1055,1025,31-Aug-06
+31,Adilabad,Adilabad,Wheat,Lokwan Binar,FAQ,1050,1100,1075,30-Aug-06
+32,Adilabad,Adilabad,Wheat,Lokwan,FAQ,1025,1075,1050,28-Aug-06
+33,Adilabad,Adilabad,Wheat,Deshi,FAQ,1000,1100,1050,27-Aug-06
+34,Adilabad,Adilabad,Wheat,Deshi,FAQ,900,950,925,26-Aug-06
+35,Adilabad,Adilabad,Wheat,MP Sharbati,FAQ,1100,1200,1150,26-Aug-06
+36,Adilabad,Adilabad,Wheat,Lokwan,FAQ,1000,1050,1025,24-Aug-06
+37,Adilabad,Adilabad,Wheat,Lokwan,FAQ,1000,1100,1050,23-Aug-06
+38,Adilabad,Adilabad,Wheat,Lokwan,FAQ,1025,1125,1075,22-Aug-06
+39,Adilabad,Adilabad,Wheat,Lokwan,FAQ,1025,1100,1075,19-Aug-06
+40,Adilabad,Adilabad,Wheat,Lokwan,FAQ,1005,1055,1025,18-Aug-06
+41,Adilabad,Adilabad,Wheat,Lokwan,FAQ,1025,1075,1050,17-Aug-06
+42,Adilabad,Adilabad,Wheat,Lokwan,FAQ,1025,1125,1050,16-Aug-06
+43,Adilabad,Adilabad,Wheat,Lokwan,FAQ,1000,1050,1025,15-Aug-06
+44,Adilabad,Adilabad,Wheat,Lokwan,FAQ,1050,1150,1100,14-Aug-06
+45,Adilabad,Adilabad,Wheat,Lokwan,FAQ,975,1175,1075,12-Aug-06
+46,Adilabad,Adilabad,Wheat,Lokwan,FAQ,1000,1100,1050,11-Aug-06
+47,Adilabad,Adilabad,Wheat,Lokwan,FAQ,975,1135,1060,03-Aug-06
+48,Adilabad,Adilabad,Wheat,Lokwan,FAQ,950,1125,1045,01-Aug-06
+49,Adilabad,Adilabad,Wheat,Lokwan,FAQ,960,1145,1055,31-Jul-06
+50,Adilabad,Adilabad,Wheat,Lokwan,FAQ,975,1150,1075,26-Jul-06
+51,Adilabad,Adilabad,Wheat,Lokwan,FAQ,950,1100,1050,24-Jul-06
+52,Adilabad,Adilabad,Wheat,Lokwan,FAQ,960,1145,1055,22-Jul-06
+53,Adilabad,Adilabad,Wheat,Lokwan,FAQ,975,1165,1065,21-Jul-06
+54,Adilabad,Adilabad,Wheat,Lokwan,FAQ,960,1145,1055,20-Jul-06
+55,Adilabad,Adilabad,Wheat,Lokwan,FAQ,975,1165,1065,19-Jul-06
+56,Adilabad,Adilabad,Wheat,Lokwan,FAQ,950,1125,1050,18-Jul-06
+57,Adilabad,Adilabad,Wheat,Lokwan,FAQ,950,1100,1050,17-Jul-06
+58,Adilabad,Adilabad,Wheat,Lokwan,FAQ,950,1100,1050,15-Jul-06
+59,Adilabad,Adilabad,Wheat,Lokwan,FAQ,950,1125,1050,14-Jul-06
+60,Adilabad,Adilabad,Wheat,Lokwan,FAQ,970,1150,1060,13-Jul-06
+61,Adilabad,Adilabad,Wheat,Local,FAQ,880,1130,1005,12-Jul-06
+62,Mahbubnagar,Alampur,Wheat,Other,FAQ,1370,1390,1380,30-Jul-13
+63,Mahbubnagar,Alampur,Wheat,Other,FAQ,1370,1390,1380,29-Jul-13
+64,Mahbubnagar,Alampur,Wheat,Other,FAQ,1380,1400,1390,26-Jul-13
+65,Mahbubnagar,Alampur,Wheat,Other,FAQ,1370,1410,1390,25-Jul-13
+66,Mahbubnagar,Alampur,Wheat,Other,FAQ,1380,1410,1390,24-Jul-13
+67,Mahbubnagar,Alampur,Wheat,Other,FAQ,1380,1415,1400,23-Jul-13
+68,Mahbubnagar,Alampur,Wheat,Other,FAQ,1390,1415,1400,22-Jul-13
+69,Mahbubnagar,Alampur,Wheat,Other,FAQ,1390,1420,1400,20-Jul-13
+70,Mahbubnagar,Alampur,Wheat,Other,FAQ,1400,1430,1415,19-Jul-13
+71,Mahbubnagar,Alampur,Wheat,Other,FAQ,1400,1440,1420,18-Jul-13
+72,Mahbubnagar,Alampur,Wheat,Other,FAQ,1400,1430,1415,17-Jul-13
+73,Mahbubnagar,Alampur,Wheat,Other,FAQ,1390,1430,1410,16-Jul-13
+74,Mahbubnagar,Alampur,Wheat,Other,FAQ,1390,1425,1400,15-Jul-13
+75,Mahbubnagar,Alampur,Wheat,Other,FAQ,1360,1400,1380,14-Jul-13
+76,Mahbubnagar,Alampur,Wheat,Other,FAQ,1380,1410,1390,13-Jul-13
+77,Mahbubnagar,Alampur,Wheat,Other,FAQ,1370,1400,1380,12-Jul-13
+78,Mahbubnagar,Alampur,Wheat,Other,FAQ,1370,1410,1390,11-Jul-13
+79,Mahbubnagar,Alampur,Wheat,Other,FAQ,1360,1400,1380,10-Jul-13
+80,Mahbubnagar,Alampur,Wheat,Other,FAQ,1360,1400,1380,09-Jul-13
+81,Mahbubnagar,Alampur,Wheat,Other,FAQ,1360,1400,1380,08-Jul-13
+82,Mahbubnagar,Alampur,Wheat,Other,FAQ,1370,1410,1390,07-Jul-13
+83,Mahbubnagar,Alampur,Wheat,Other,FAQ,1380,1415,1390,06-Jul-13
+84,Mahbubnagar,Alampur,Wheat,Other,FAQ,1370,1410,1390,05-Jul-13
+85,Mahbubnagar,Alampur,Wheat,Other,FAQ,1370,1410,1385,04-Jul-13
+86,Mahbubnagar,Alampur,Wheat,Other,FAQ,1365,1400,1385,03-Jul-13
+87,Mahbubnagar,Alampur,Wheat,Other,FAQ,1370,1410,1385,02-Jul-13
+88,Mahbubnagar,Alampur,Wheat,Other,FAQ,1376,1376,1376,01-Jul-13
+89,Mahbubnagar,Alampur,Wheat,Other,FAQ,1400,1460,1460,31-May-13
+90,Mahbubnagar,Alampur,Wheat,Other,FAQ,1420,1465,1465,30-May-13
+91,Mahbubnagar,Alampur,Wheat,Other,FAQ,1400,1460,1460,29-May-13
+92,Mahbubnagar,Alampur,Wheat,Other,FAQ,1400,1456,1456,28-May-13
+93,Mahbubnagar,Alampur,Wheat,Other,FAQ,1400,1460,1460,27-May-13
+94,Mahbubnagar,Alampur,Wheat,Other,FAQ,1400,1420,1420,26-May-13
+95,Mahbubnagar,Alampur,Wheat,Other,FAQ,1400,1480,1480,25-May-13
+96,Mahbubnagar,Alampur,Wheat,Other,FAQ,1400,1480,1480,24-May-13
+97,Mahbubnagar,Alampur,Wheat,Other,FAQ,1400,1480,1480,23-May-13
+98,Mahbubnagar,Alampur,Wheat,Other,FAQ,1400,1460,1460,22-May-13
+99,Mahbubnagar,Alampur,Wheat,Other,FAQ,1400,1460,1460,21-May-13
+100,Mahbubnagar,Alampur,Wheat,Other,FAQ,1400,1450,1450,20-May-13
+101,Mahbubnagar,Alampur,Wheat,Other,FAQ,1400,1450,1450,19-May-13
+102,Mahbubnagar,Alampur,Wheat,Other,FAQ,1380,1440,1440,18-May-13
+103,Mahbubnagar,Alampur,Wheat,Other,FAQ,1380,1410,1410,17-May-13
+104,Mahbubnagar,Alampur,Wheat,Other,FAQ,1350,1410,1410,16-May-13
+105,Mahbubnagar,Alampur,Wheat,Other,FAQ,1360,1410,1410,15-May-13
+106,Mahbubnagar,Alampur,Wheat,Other,FAQ,1300,1360,1360,14-May-13
+107,Mahbubnagar,Alampur,Wheat,Other,FAQ,1300,1370,1370,13-May-13
+108,Mahbubnagar,Alampur,Wheat,Other,FAQ,1300,1360,1360,12-May-13
+109,Mahbubnagar,Alampur,Wheat,Other,FAQ,1300,1360,1360,11-May-13
+110,Mahbubnagar,Alampur,Wheat,Other,FAQ,1280,1340,1340,10-May-13
+111,Mahbubnagar,Alampur,Wheat,Other,FAQ,1280,1340,1340,09-May-13
+112,Mahbubnagar,Alampur,Wheat,Other,FAQ,1260,1330,1330,08-May-13
+113,Mahbubnagar,Alampur,Wheat,Other,FAQ,1280,1340,1340,07-May-13
+114,Mahbubnagar,Alampur,Wheat,Other,FAQ,1270,1330,1330,06-May-13
+115,Mahbubnagar,Alampur,Wheat,Other,FAQ,1260,1310,1310,05-May-13
+116,Mahbubnagar,Alampur,Wheat,Other,FAQ,1260,1310,1310,04-May-13
+117,Mahbubnagar,Alampur,Wheat,Other,FAQ,1260,1300,1300,03-May-13
+118,Mahbubnagar,Alampur,Wheat,Other,FAQ,1240,1280,1270,02-May-13
+119,Mahbubnagar,Alampur,Wheat,Other,FAQ,1240,1280,1260,01-May-13
+120,Mahbubnagar,Alampur,Wheat,Other,FAQ,1280,1300,1290,29-Jul-12
+121,Mahbubnagar,Alampur,Wheat,Other,FAQ,1270,1320,1300,28-Jul-12
+122,Mahbubnagar,Alampur,Wheat,Other,FAQ,1280,1315,1290,27-Jul-12
+123,Mahbubnagar,Alampur,Wheat,Other,FAQ,1280,1315,1290,26-Jul-12
+124,Mahbubnagar,Alampur,Wheat,Other,FAQ,1250,1280,1260,25-Jul-12
+125,Mahbubnagar,Alampur,Wheat,Other,FAQ,1250,1280,1260,24-Jul-12
+126,Mahbubnagar,Alampur,Wheat,Other,FAQ,1250,1280,1260,23-Jul-12
+127,Mahbubnagar,Alampur,Wheat,Other,FAQ,1250,1280,1260,22-Jul-12
+128,Mahbubnagar,Alampur,Wheat,Other,FAQ,1250,1280,1260,21-Jul-12
+129,Mahbubnagar,Alampur,Wheat,Other,FAQ,1260,1290,1270,20-Jul-12
+130,Mahbubnagar,Alampur,Wheat,Other,FAQ,1190,1260,1250,19-Jul-12
+131,Mahbubnagar,Alampur,Wheat,Other,FAQ,1225,1225,1225,18-Jul-12
+132,Mahbubnagar,Alampur,Wheat,Other,FAQ,1205,1225,1215,17-Jul-12
+133,Mahbubnagar,Alampur,Wheat,Other,FAQ,1195,1230,1220,16-Jul-12
+134,Mahbubnagar,Alampur,Wheat,Other,FAQ,1180,1200,1190,15-Jul-12
+135,Mahbubnagar,Alampur,Wheat,Other,FAQ,1260,1260,1260,14-Jul-12
+136,Mahbubnagar,Alampur,Wheat,Other,FAQ,1260,1260,1260,13-Jul-12
+137,Mahbubnagar,Alampur,Wheat,Other,FAQ,1150,1260,1220,12-Jul-12
+138,Mahbubnagar,Alampur,Wheat,Other,FAQ,1110,1145,1130,11-Jul-12
+139,Mahbubnagar,Alampur,Wheat,Other,FAQ,1080,1115,1100,10-Jul-12
+140,Mahbubnagar,Alampur,Wheat,Other,FAQ,1040,1080,1060,09-Jul-12
+141,Mahbubnagar,Alampur,Wheat,Other,FAQ,1030,1060,1050,08-Jul-12
+142,Mahbubnagar,Alampur,Wheat,Other,FAQ,1040,1070,1060,07-Jul-12
+143,Mahbubnagar,Alampur,Wheat,Other,FAQ,1030,1045,1040,06-Jul-12
+144,Mahbubnagar,Alampur,Wheat,Other,FAQ,1030,1045,1040,05-Jul-12
+145,Mahbubnagar,Alampur,Wheat,Other,FAQ,1030,1045,1040,04-Jul-12
+146,Mahbubnagar,Alampur,Wheat,Other,FAQ,1030,1045,1040,03-Jul-12
+147,Mahbubnagar,Alampur,Wheat,Other,FAQ,1010,1025,1020,02-Jul-12
+148,Mahbubnagar,Alampur,Wheat,Other,FAQ,1010,1025,1020,01-Jul-12
+149,Mahbubnagar,Alampur,Wheat,Other,FAQ,1050,1050,1050,31-Mar-12
+150,Mahbubnagar,Alampur,Wheat,Other,FAQ,1040,1060,1060,30-Mar-12
+151,Mahbubnagar,Alampur,Wheat,Other,FAQ,1040,1060,1060,29-Mar-12
+152,Mahbubnagar,Alampur,Wheat,Other,FAQ,1060,1060,1060,28-Mar-12
+153,Mahbubnagar,Alampur,Wheat,Other,FAQ,1030,1070,1070,27-Mar-12
+154,Mahbubnagar,Alampur,Wheat,Other,FAQ,1050,1080,1080,26-Mar-12
+155,Mahbubnagar,Alampur,Wheat,Other,FAQ,1060,1090,1090,25-Mar-12
+156,Mahbubnagar,Alampur,Wheat,Other,FAQ,1060,1090,1090,24-Mar-12
+157,Mahbubnagar,Alampur,Wheat,Other,FAQ,1050,1100,1100,23-Mar-12
+158,Mahbubnagar,Alampur,Wheat,Other,FAQ,1080,1100,1100,22-Mar-12
+159,Mahbubnagar,Alampur,Wheat,Other,FAQ,1080,1080,1080,21-Mar-12
+160,Mahbubnagar,Alampur,Wheat,Other,FAQ,1050,1090,1070,20-Jan-12
+161,Mahbubnagar,Alampur,Wheat,Other,FAQ,1050,1090,1070,19-Jan-12
+162,Mahbubnagar,Alampur,Wheat,Other,FAQ,1050,1090,1070,18-Jan-12
+163,Mahbubnagar,Alampur,Wheat,Other,FAQ,1050,1090,1070,17-Jan-12
+164,Mahbubnagar,Alampur,Wheat,Other,FAQ,1050,1090,1070,16-Jan-12
+165,Mahbubnagar,Alampur,Wheat,Other,FAQ,1050,1090,1070,15-Jan-12
+166,Mahbubnagar,Alampur,Wheat,Other,FAQ,1125,1145,1135,15-Oct-10
+167,Mahbubnagar,Alampur,Wheat,Other,FAQ,1120,1130,1125,14-Oct-10
+168,Mahbubnagar,Alampur,Wheat,Other,FAQ,1120,1130,1125,13-Oct-10
+169,Mahbubnagar,Alampur,Wheat,Other,FAQ,1110,1120,1115,12-Oct-10
+170,Mahbubnagar,Alampur,Wheat,Other,FAQ,1115,1130,1120,11-Oct-10
+171,Mahbubnagar,Alampur,Wheat,Other,FAQ,1115,1130,1120,10-Oct-10
+172,Mahbubnagar,Alampur,Wheat,Other,FAQ,1110,1120,1115,09-Oct-10
+173,Mahbubnagar,Alampur,Wheat,Other,FAQ,1100,1120,1110,08-Oct-10
+174,Mahbubnagar,Alampur,Wheat,Other,FAQ,1100,1120,1110,07-Oct-10
+175,Mahbubnagar,Alampur,Wheat,Other,FAQ,1105,1120,1110,06-Oct-10
+176,Mahbubnagar,Alampur,Wheat,Other,FAQ,1100,1110,1105,05-Oct-10
+177,Mahbubnagar,Alampur,Wheat,Other,FAQ,1105,1120,1110,04-Oct-10
+178,Mahbubnagar,Alampur,Wheat,Other,FAQ,1105,1120,1110,03-Oct-10
+179,Mahbubnagar,Alampur,Wheat,Other,FAQ,1110,1120,1115,02-Oct-10
+180,Mahbubnagar,Alampur,Wheat,Other,FAQ,1090,1100,1095,01-Oct-10
+181,Mahbubnagar,Alampur,Wheat,Other,FAQ,1260,1289,1272,21-Nov-09
+182,Mahbubnagar,Alampur,Wheat,Other,FAQ,1245,1275,1265,20-Nov-09
+183,Mahbubnagar,Alampur,Wheat,Other,FAQ,1267,1285,1270,08-Nov-09
+184,Mahbubnagar,Alampur,Wheat,Other,FAQ,1260,1275,1268,07-Nov-09
+185,Mahbubnagar,Alampur,Wheat,Other,FAQ,1260,1280,1270,06-Nov-09
+186,Mahbubnagar,Alampur,Wheat,Other,FAQ,1270,1290,1280,05-Nov-09
+187,Mahbubnagar,Alampur,Wheat,Other,FAQ,1280,1293,1284,04-Nov-09
+188,Mahbubnagar,Alampur,Wheat,Other,FAQ,1260,1280,1270,03-Nov-09
+189,Mahbubnagar,Alampur,Wheat,Other,FAQ,1251,1270,1260,02-Nov-09
+190,Mahbubnagar,Alampur,Wheat,Other,FAQ,1280,1300,1290,01-Nov-09
+191,Mahbubnagar,Alampur,Wheat,Other,FAQ,1250,1280,1260,31-Oct-09
+192,Mahbubnagar,Alampur,Wheat,Other,FAQ,1240,1267,1250,30-Oct-09
+193,Mahbubnagar,Alampur,Wheat,Other,FAQ,1177,1225,1180,29-Oct-09
+194,Mahbubnagar,Alampur,Wheat,Other,FAQ,1159,1172,1170,28-Oct-09
+195,Mahbubnagar,Alampur,Wheat,Other,FAQ,1168,1208,1200,27-Oct-09
+196,Mahbubnagar,Alampur,Wheat,Other,FAQ,1175,1195,1190,26-Oct-09
+197,Mahbubnagar,Alampur,Wheat,Other,FAQ,1190,1200,1195,25-Oct-09
+198,Mahbubnagar,Alampur,Wheat,Other,FAQ,1176,1198,1190,24-Oct-09
+199,Mahbubnagar,Alampur,Wheat,Other,FAQ,1176,1198,1191,23-Oct-09
+200,Mahbubnagar,Alampur,Wheat,Other,FAQ,1165,1208,1200,22-Oct-09
+201,Mahbubnagar,Alampur,Wheat,Other,FAQ,1190,1200,1195,20-Oct-09
+202,Mahbubnagar,Alampur,Wheat,Other,FAQ,1110,1138,1120,19-Oct-09
+203,Mahbubnagar,Alampur,Wheat,Other,FAQ,1100,1110,1105,16-Oct-09
+204,Mahbubnagar,Alampur,Wheat,Other,FAQ,1095,1130,1110,15-Oct-09
+205,Mahbubnagar,Alampur,Wheat,Other,FAQ,1080,1118,1100,13-Oct-09
+206,Mahbubnagar,Alampur,Wheat,Other,FAQ,1096,1114,1106,12-Oct-09
+207,Mahbubnagar,Alampur,Wheat,Other,FAQ,1090,1105,1100,11-Oct-09
+208,Mahbubnagar,Alampur,Wheat,Other,FAQ,1090,1100,1095,10-Oct-09
+209,Mahbubnagar,Alampur,Wheat,Other,FAQ,1060,1080,1070,09-Oct-09
+210,Mahbubnagar,Alampur,Wheat,Other,FAQ,1060,1075,1064,08-Oct-09
+211,Mahbubnagar,Alampur,Wheat,Other,FAQ,1063,1066,1065,07-Oct-09
+212,Mahbubnagar,Alampur,Wheat,Other,FAQ,1075,1082,1080,06-Oct-09
+213,Mahbubnagar,Alampur,Wheat,Other,FAQ,1070,1095,1090,05-Oct-09
+214,Mahbubnagar,Alampur,Wheat,Other,FAQ,1075,1085,1080,02-Oct-09
+215,Mahbubnagar,Alampur,Wheat,Other,FAQ,1075,1080,1077,01-Oct-09
+216,Mahbubnagar,Alampur,Wheat,Other,FAQ,1070,1085,1080,30-Sep-09
+217,Mahbubnagar,Alampur,Wheat,Other,FAQ,1060,1106,1080,29-Sep-09
+218,Mahbubnagar,Alampur,Wheat,Other,FAQ,1096,1104,1100,28-Sep-09
+219,Mahbubnagar,Alampur,Wheat,Other,FAQ,1095,1100,1095,27-Sep-09
+220,Mahbubnagar,Alampur,Wheat,Other,FAQ,1070,1105,1095,26-Sep-09
+221,Mahbubnagar,Alampur,Wheat,Other,FAQ,1060,1100,1095,25-Sep-09
+222,Mahbubnagar,Alampur,Wheat,Other,FAQ,1095,1109,1100,24-Sep-09
+223,Mahbubnagar,Alampur,Wheat,Other,FAQ,1100,1111,1105,23-Sep-09
+224,Mahbubnagar,Alampur,Wheat,Other,FAQ,1090,1110,1100,22-Sep-09
+225,Mahbubnagar,Alampur,Wheat,Other,FAQ,1095,1120,1105,21-Sep-09
+226,Mahbubnagar,Alampur,Wheat,Other,FAQ,1090,1105,1100,20-Sep-09
+227,Mahbubnagar,Alampur,Wheat,Other,FAQ,1090,1114,1100,19-Sep-09
+228,Mahbubnagar,Alampur,Wheat,Other,FAQ,1080,1111,1090,18-Sep-09
+229,Mahbubnagar,Alampur,Wheat,Other,FAQ,1090,1106,1100,17-Sep-09
+230,Mahbubnagar,Alampur,Wheat,Other,FAQ,1100,1100,1100,16-Sep-09
+231,Mahbubnagar,Alampur,Wheat,Other,FAQ,1095,1108,1105,15-Sep-09
+232,Mahbubnagar,Alampur,Wheat,Other,FAQ,1100,1119,1109,14-Sep-09
+233,Mahbubnagar,Alampur,Wheat,Other,FAQ,1110,1138,1122,13-Sep-09
+234,Mahbubnagar,Alampur,Wheat,Other,FAQ,1112,1122,1114,12-Sep-09
+235,Mahbubnagar,Alampur,Wheat,Other,FAQ,1110,1122,1115,11-Sep-09
+236,Mahbubnagar,Alampur,Wheat,Other,FAQ,1086,1104,1094,08-Sep-09
+237,Mahbubnagar,Alampur,Wheat,Other,FAQ,1074,1108,1085,07-Sep-09
+238,Mahbubnagar,Alampur,Wheat,Other,FAQ,1082,1105,1090,06-Sep-09
+239,Mahbubnagar,Alampur,Wheat,Other,FAQ,1070,1085,1080,05-Sep-09
+240,Mahbubnagar,Alampur,Wheat,Other,FAQ,1070,1090,1085,04-Sep-09
+241,Mahbubnagar,Alampur,Wheat,Other,FAQ,1075,1085,1080,03-Sep-09
+242,Mahbubnagar,Alampur,Wheat,Other,FAQ,1080,1098,1084,02-Sep-09
+243,Mahbubnagar,Alampur,Wheat,Other,FAQ,1050,1080,1060,30-Jun-09
+244,Mahbubnagar,Alampur,Wheat,Other,FAQ,1000,1200,1111,26-Sep-07
+245,Mahbubnagar,Alampur,Wheat,MP(Desi),FAQ,1100,1200,1110,26-Sep-07
+246,Mahbubnagar,Alampur,Wheat,Red,FAQ,1000,1200,1120,26-Sep-07
+247,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,1275,1275,1275,10-Jun-09
+248,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,1300,1300,1300,07-Jun-09
+249,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,1270,1270,1270,03-Jun-09
+250,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,1270,1270,1270,01-Jun-09
+251,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,1270,1270,1270,30-May-09
+252,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,1250,1290,1270,29-May-09
+253,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,1150,1150,1150,19-May-09
+254,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,1100,1100,1100,12-May-09
+255,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,1100,1100,1100,11-May-09
+256,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,1075,1075,1075,10-May-09
+257,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,1190,1190,1190,30-Apr-09
+258,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,1180,1180,1180,28-Apr-09
+259,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,1150,1150,1150,27-Apr-09
+260,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,1190,1190,1190,26-Apr-09
+261,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,1190,1300,1245,25-Apr-09
+262,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,1150,1150,1150,24-Apr-09
+263,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,1200,1200,1200,23-Apr-09
+264,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,1160,1160,1160,21-Apr-09
+265,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,1200,1200,1200,20-Apr-09
+266,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,1160,1160,1160,18-Apr-09
+267,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,1160,1160,1160,17-Apr-09
+268,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,900,900,900,15-Mar-09
+269,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,850,850,850,06-Mar-09
+270,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,850,850,850,27-Feb-09
+271,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,850,850,850,26-Feb-09
+272,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,850,850,850,24-Feb-09
+273,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,850,850,850,23-Feb-09
+274,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,850,850,850,22-Feb-09
+275,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,800,900,850,21-Feb-09
+276,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,1125,1125,1125,17-Feb-09
+277,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,1125,1125,1125,14-Feb-09
+278,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,1200,1250,1225,23-Dec-08
+279,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,1200,1250,1225,21-Dec-08
+280,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,1200,1250,1225,20-Dec-08
+281,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,1200,1300,1250,17-Dec-08
+282,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,800,1000,900,29-Oct-08
+283,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,1300,1300,1300,01-Oct-08
+284,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,1100,1200,1150,06-Sep-08
+285,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,935,1210,1072,04-Sep-08
+286,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,935,1210,1072,02-Sep-08
+287,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,935,1210,1072,01-Sep-08
+288,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,1000,1200,1100,28-Aug-08
+289,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,1000,1200,1100,27-Aug-08
+290,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,1000,1200,1100,25-Aug-08
+291,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,1000,1200,1100,24-Aug-08
+292,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,1100,1200,1150,20-Aug-08
+293,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,1100,1200,1150,18-Aug-08
+294,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,1100,1200,1150,17-Aug-08
+295,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,1100,1200,1150,15-Aug-08
+296,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,1100,1200,1150,12-Aug-08
+297,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,1100,1200,1150,09-Aug-08
+298,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,1200,1400,1300,06-Aug-08
+299,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,1200,1400,1300,05-Aug-08
+300,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,1200,1400,1300,04-Aug-08
+301,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,1200,1400,1300,03-Aug-08
+302,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,1200,1400,1300,02-Aug-08
+303,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,1200,1400,1300,01-Aug-08
+304,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,1005,1200,1100,30-Jul-08
+305,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,1005,1200,1100,28-Jul-08
+306,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,1005,1200,1100,27-Jul-08
+307,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,1005,1200,1100,26-Jul-08
+308,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,750,1200,900,25-Jul-08
+309,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,985,1316,1150,24-Jul-08
+310,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,985,1316,1150,23-Jul-08
+311,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,985,1316,1150,20-Jul-08
+312,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,985,1316,1150,18-Jul-08
+313,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,1100,1250,1175,16-Jul-08
+314,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,1100,1250,1175,14-Jul-08
+315,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,1100,1250,1175,11-Jul-08
+316,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,930,1200,1065,08-Jul-08
+317,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,930,1200,1065,06-Jul-08
+318,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,900,1170,1035,01-Jul-08
+319,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,900,1170,1035,28-Jun-08
+320,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,760,900,830,25-Jun-08
+321,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,760,900,850,21-Jun-08
+322,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,1050,1150,1100,08-Jun-08
+323,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,825,1180,1002,04-Jun-08
+324,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,825,1180,1002,02-Jun-08
+325,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,825,1180,1002,01-Jun-08
+326,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,825,1180,1002,31-May-08
+327,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,825,1180,1002,30-May-08
+328,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,780,1130,950,29-May-08
+329,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,780,1130,950,25-May-08
+330,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,690,1100,895,17-May-08
+331,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,690,1100,895,16-May-08
+332,Ranga Reddy,"Alwal,RBZ",Wheat,Deshi,FAQ,700,800,770,14-May-08
+333,Ranga Reddy,"Alwal,RBZ",Wheat,Bansi,FAQ,700,800,770,13-May-08
+334,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,700,800,770,11-May-08
+335,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,700,800,770,10-May-08
+336,Ranga Reddy,"Alwal,RBZ",Wheat,Deshi,FAQ,700,880,770,09-May-08
+337,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,1140,1170,1155,01-May-08
+338,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,1140,1170,1155,26-Apr-08
+339,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,1140,1170,1155,24-Apr-08
+340,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,1000,1100,1050,12-Oct-07
+341,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,1180,1300,1240,14-Sep-07
+342,Ranga Reddy,"Alwal,RBZ",Wheat,Local,FAQ,890,970,930,31-Aug-07
+343,Mahbubnagar,Badepalli,Wheat,Lok-1,FAQ,400,400,400,16-Apr-03
+344,Mahbubnagar,Badepalli,Wheat,Lok-1,FAQ,500,500,500,24-Mar-03
+345,Nizamabad,Banswada,Wheat,Other,FAQ,1400,1500,1450,28-Aug-12
+346,Nizamabad,Banswada,Wheat,Other,FAQ,1350,1400,1375,07-Aug-12
+347,Nizamabad,Banswada,Wheat,Other,FAQ,1300,1400,1350,06-Aug-12
+348,Nizamabad,Banswada,Wheat,Other,FAQ,1300,1400,1350,27-Jul-12
+349,Nizamabad,Banswada,Wheat,Other,FAQ,1300,1400,1350,26-Jul-12
+350,Nizamabad,Banswada,Wheat,Other,FAQ,1200,1300,1250,20-Jul-12
+351,Nizamabad,Banswada,Wheat,Other,FAQ,1200,1300,1250,19-Jul-12
+352,Nizamabad,Banswada,Wheat,Other,FAQ,1225,1275,1250,18-Jul-12
+353,Nizamabad,Banswada,Wheat,Other,FAQ,1200,1300,1250,17-Jul-12
+354,Nizamabad,Banswada,Wheat,Other,FAQ,1225,1275,1250,16-Jul-12
+355,Nizamabad,Banswada,Wheat,Other,FAQ,1225,1275,1250,13-Jul-12
+356,Nizamabad,Banswada,Wheat,Other,FAQ,1200,1250,1225,12-Jul-12
+357,Nizamabad,Banswada,Wheat,Other,FAQ,1200,1250,1225,11-Jul-12
+358,Nizamabad,Banswada,Wheat,Other,FAQ,1200,1240,1220,10-Jul-12
+359,Nizamabad,Banswada,Wheat,Other,FAQ,1175,1225,1200,09-Jul-12
+360,Nizamabad,Banswada,Wheat,Other,FAQ,1175,1225,1200,06-Jul-12
+361,Nizamabad,Banswada,Wheat,Other,FAQ,1175,1225,1200,04-Jul-12
+362,Nizamabad,Banswada,Wheat,Other,FAQ,1175,1225,1200,03-Jul-12
+363,Nizamabad,Banswada,Wheat,Other,FAQ,0,0,1285,13-Jun-12
+364,Nizamabad,Banswada,Wheat,Other,FAQ,0,0,1285,08-Jun-12
+365,Nizamabad,Banswada,Wheat,Other,FAQ,1260,1300,1285,05-Jun-12
+366,Nizamabad,Banswada,Wheat,Other,FAQ,0,0,1285,04-Jun-12
+367,Nizamabad,Banswada,Wheat,Other,FAQ,0,0,1285,01-Jun-12
+368,Nizamabad,Banswada,Wheat,Other,FAQ,0,0,1285,31-May-12
+369,Nizamabad,Banswada,Wheat,Other,FAQ,0,0,1285,30-May-12
+370,Nizamabad,Banswada,Wheat,Other,FAQ,0,0,1285,29-May-12
+371,Nizamabad,Banswada,Wheat,Other,FAQ,0,0,1285,28-May-12
+372,Nizamabad,Banswada,Wheat,Other,FAQ,0,0,1285,25-May-12
+373,Nizamabad,Banswada,Wheat,Other,FAQ,0,0,1285,24-May-12
+374,Nizamabad,Banswada,Wheat,Other,FAQ,0,0,1285,23-May-12
+375,Nizamabad,Banswada,Wheat,Other,FAQ,0,0,1150,22-May-12
+376,Nizamabad,Banswada,Wheat,Other,FAQ,0,0,1150,21-May-12
+377,Nizamabad,Banswada,Wheat,Other,FAQ,0,0,1150,20-May-12
+378,Nizamabad,Banswada,Wheat,Other,FAQ,0,0,1285,19-May-12
+379,Nizamabad,Banswada,Wheat,Other,FAQ,0,0,1285,18-May-12
+380,Nizamabad,Banswada,Wheat,Other,FAQ,0,0,1285,16-May-12
+381,Nizamabad,Banswada,Wheat,Other,FAQ,0,0,1285,15-May-12
+382,Nizamabad,Banswada,Wheat,Other,FAQ,0,0,1285,13-May-12
+383,Nizamabad,Banswada,Wheat,Other,FAQ,0,0,1285,12-May-12
+384,Nizamabad,Banswada,Wheat,Other,FAQ,0,0,1285,11-May-12
+385,Nizamabad,Banswada,Wheat,Other,FAQ,0,0,1285,10-May-12
+386,Nizamabad,Banswada,Wheat,Other,FAQ,0,0,1285,09-May-12
+387,Nizamabad,Banswada,Wheat,Other,FAQ,1050,1300,1285,08-May-12
+388,Nizamabad,Banswada,Wheat,Other,FAQ,0,0,1285,07-May-12
+389,Nizamabad,Banswada,Wheat,Other,FAQ,0,0,1285,04-May-12
+390,Nizamabad,Banswada,Wheat,Other,FAQ,0,0,1285,03-May-12
+391,Nizamabad,Banswada,Wheat,Other,FAQ,0,0,1285,02-May-12
+392,Nizamabad,Banswada,Wheat,Other,FAQ,0,0,1285,19-Apr-12
+393,Nizamabad,Banswada,Wheat,Other,FAQ,0,0,1285,18-Apr-12
+394,Nizamabad,Banswada,Wheat,Other,FAQ,1280,1290,1285,13-Apr-12
+395,Nizamabad,Banswada,Wheat,Other,FAQ,1280,1290,1285,12-Apr-12
+396,Nizamabad,Banswada,Wheat,Other,FAQ,1275,1290,1285,11-Apr-12
+397,Nizamabad,Banswada,Wheat,Other,FAQ,1270,1290,1285,10-Apr-12
+398,Nizamabad,Banswada,Wheat,Other,FAQ,0,0,1285,09-Apr-12
+399,Nizamabad,Banswada,Wheat,Other,FAQ,1150,1250,1200,05-Apr-12
+400,Nizamabad,Banswada,Wheat,Other,FAQ,1100,1200,1150,02-Apr-12
+401,Nizamabad,Banswada,Wheat,Other,FAQ,1100,1200,1150,30-Mar-12
+402,Nizamabad,Banswada,Wheat,Other,FAQ,1150,1250,1200,29-Mar-12
+403,Nizamabad,Banswada,Wheat,Other,FAQ,1150,1250,1200,28-Mar-12
+404,Nizamabad,Banswada,Wheat,Other,FAQ,1150,1250,1200,27-Mar-12
+405,Nizamabad,Banswada,Wheat,Other,FAQ,0,0,1200,23-Mar-12
+406,Nizamabad,Banswada,Wheat,Other,FAQ,0,0,1200,22-Mar-12
+407,Nizamabad,Banswada,Wheat,Other,FAQ,0,0,1200,21-Mar-12
+408,Nizamabad,Banswada,Wheat,Other,FAQ,0,0,1200,20-Mar-12
+409,Nizamabad,Banswada,Wheat,Other,FAQ,0,0,1200,19-Mar-12
+410,Nizamabad,Banswada,Wheat,Other,FAQ,1150,1200,1175,15-Mar-12
+411,Nizamabad,Banswada,Wheat,Other,FAQ,1150,1200,1175,14-Mar-12
+412,Nizamabad,Banswada,Wheat,Other,FAQ,1100,1200,1150,13-Mar-12
+413,Nizamabad,Banswada,Wheat,Other,FAQ,1100,1200,1160,09-Mar-12
+414,Nizamabad,Banswada,Wheat,Other,FAQ,1125,1180,1150,06-Mar-12
+415,Nizamabad,Banswada,Wheat,Other,FAQ,1100,1200,1150,05-Mar-12
+416,Nizamabad,Banswada,Wheat,Other,FAQ,1100,1200,1150,02-Mar-12
+417,Nizamabad,Banswada,Wheat,Other,FAQ,1100,1200,1150,01-Mar-12
+418,Nizamabad,Banswada,Wheat,Other,FAQ,1150,1200,1175,29-Feb-12
+419,Nizamabad,Banswada,Wheat,Other,FAQ,1100,1200,1150,28-Feb-12
+420,Nizamabad,Banswada,Wheat,Other,FAQ,1100,1200,1150,24-Feb-12
+421,Nizamabad,Banswada,Wheat,Other,FAQ,1100,1200,1160,23-Feb-12
+422,Nizamabad,Banswada,Wheat,Other,FAQ,1125,1225,1175,22-Feb-12
+423,Nizamabad,Banswada,Wheat,Other,FAQ,1125,1220,1150,21-Feb-12
+424,Nizamabad,Banswada,Wheat,Other,FAQ,1120,1220,1150,20-Feb-12
+425,Nizamabad,Banswada,Wheat,Other,FAQ,1120,1180,1150,15-Feb-12
+426,Nizamabad,Banswada,Wheat,Other,FAQ,1120,1180,1150,14-Feb-12
+427,Nizamabad,Banswada,Wheat,Other,FAQ,1120,1170,1140,13-Feb-12
+428,Nizamabad,Banswada,Wheat,Other,FAQ,1100,1170,1140,12-Feb-12
+429,Nizamabad,Banswada,Wheat,Other,FAQ,1100,1170,1150,11-Feb-12
+430,Nizamabad,Banswada,Wheat,Other,FAQ,1100,1200,1150,10-Feb-12
+431,Nizamabad,Banswada,Wheat,Other,FAQ,1100,1180,1150,06-Feb-12
+432,Nizamabad,Banswada,Wheat,Other,FAQ,1100,1180,1150,05-Feb-12
+433,Nizamabad,Banswada,Wheat,Other,FAQ,1100,1200,1150,04-Feb-12
+434,Nizamabad,Banswada,Wheat,Other,FAQ,1100,1200,1150,03-Feb-12
+435,Nizamabad,Banswada,Wheat,Other,FAQ,1100,1200,1150,02-Feb-12
+436,Nizamabad,Banswada,Wheat,Other,FAQ,1125,1180,1150,01-Feb-12
+437,Nizamabad,Banswada,Wheat,Other,FAQ,1100,1180,1150,31-Jan-12
+438,Nizamabad,Banswada,Wheat,Other,FAQ,1150,1250,1180,30-Jan-12
+439,Nizamabad,Banswada,Wheat,Other,FAQ,1150,1250,1180,25-Jan-12
+440,Nizamabad,Banswada,Wheat,Other,FAQ,1150,1200,1180,24-Jan-12
+441,Nizamabad,Banswada,Wheat,Other,FAQ,1150,1250,1180,23-Jan-12
+442,Nizamabad,Banswada,Wheat,Other,FAQ,1150,1250,1180,20-Jan-12
+443,Nizamabad,Banswada,Wheat,Other,FAQ,1180,1250,1225,19-Jan-12
+444,Nizamabad,Banswada,Wheat,Other,FAQ,1150,1250,1200,18-Jan-12
+445,Nizamabad,Banswada,Wheat,Other,FAQ,1150,1250,1180,17-Jan-12
+446,Nizamabad,Banswada,Wheat,Other,FAQ,1150,1250,1180,16-Jan-12
+447,Nizamabad,Banswada,Wheat,Other,FAQ,1100,1200,1150,12-Jan-12
+448,Nizamabad,Banswada,Wheat,Other,FAQ,1100,1150,1125,11-Jan-12
+449,Nizamabad,Banswada,Wheat,Other,FAQ,1050,1150,1100,10-Jan-12
+450,Nizamabad,Banswada,Wheat,Other,FAQ,1100,1200,1150,03-Jan-12
+451,Nizamabad,Banswada,Wheat,Other,FAQ,1100,1200,1150,02-Jan-12
+452,Nizamabad,Banswada,Wheat,Other,FAQ,1100,1200,1150,30-Dec-11
+453,Nizamabad,Banswada,Wheat,Other,FAQ,1100,1200,1150,29-Dec-11
+454,Nizamabad,Banswada,Wheat,Other,FAQ,1090,1140,1125,28-Dec-11
+455,Nizamabad,Banswada,Wheat,Other,FAQ,1050,1150,1100,27-Dec-11
+456,Nizamabad,Banswada,Wheat,Other,FAQ,1050,1150,1100,26-Dec-11
+457,Nizamabad,Banswada,Wheat,Other,FAQ,1050,1150,1120,23-Dec-11
+458,Nizamabad,Banswada,Wheat,Other,FAQ,1050,1150,1120,22-Dec-11
+459,Nizamabad,Banswada,Wheat,Other,FAQ,1050,1150,1120,21-Dec-11
+460,Nizamabad,Banswada,Wheat,Other,FAQ,1050,1150,1120,20-Dec-11
+461,Nizamabad,Banswada,Wheat,Other,FAQ,1050,1150,1120,19-Dec-11
+462,Nizamabad,Banswada,Wheat,Other,FAQ,1125,1175,1150,16-Dec-11
+463,Nizamabad,Banswada,Wheat,Other,FAQ,1050,1150,1125,15-Dec-11
+464,Nizamabad,Banswada,Wheat,Other,FAQ,1100,1200,1150,14-Dec-11
+465,Nizamabad,Banswada,Wheat,Other,FAQ,1050,1125,1080,13-Dec-11
+466,Nizamabad,Banswada,Wheat,Other,FAQ,1050,1150,1100,12-Dec-11
+467,Nizamabad,Banswada,Wheat,Other,FAQ,1050,1150,1100,09-Dec-11
+468,Nizamabad,Banswada,Wheat,Other,FAQ,1050,1150,1100,08-Dec-11
+469,Nizamabad,Banswada,Wheat,Other,FAQ,1050,1120,1080,06-Dec-11
+470,Nizamabad,Banswada,Wheat,Other,FAQ,1050,1150,1100,05-Dec-11
+471,Nizamabad,Banswada,Wheat,Other,FAQ,1050,1150,1120,04-Dec-11
+472,Nizamabad,Banswada,Wheat,Other,FAQ,1070,1100,1080,03-Dec-11
+473,Nizamabad,Banswada,Wheat,Other,FAQ,1050,1150,1100,02-Dec-11
+474,Nizamabad,Banswada,Wheat,Other,FAQ,1050,1150,1100,01-Dec-11
+475,Nizamabad,Banswada,Wheat,Other,FAQ,1050,1150,1100,30-Nov-11
+476,Nizamabad,Banswada,Wheat,Other,FAQ,1000,1200,1100,29-Nov-11
+477,Nizamabad,Banswada,Wheat,Other,FAQ,1000,1200,1100,25-Nov-11
+478,Nizamabad,Banswada,Wheat,Other,FAQ,1000,1200,1100,24-Nov-11
+479,Nizamabad,Banswada,Wheat,Other,FAQ,1000,1200,1100,23-Nov-11
+480,Nizamabad,Banswada,Wheat,Other,FAQ,1050,1350,1150,16-Nov-11
+481,Nizamabad,Banswada,Wheat,Other,FAQ,1075,1125,1100,11-Nov-11
+482,Nizamabad,Banswada,Wheat,Other,FAQ,1100,1300,1200,08-Nov-11
+483,Nizamabad,Banswada,Wheat,Other,FAQ,1100,1500,1300,04-Nov-11
+484,Nizamabad,Banswada,Wheat,Other,FAQ,1100,1400,1250,03-Nov-11
+485,Nizamabad,Banswada,Wheat,Other,FAQ,1120,1400,1200,02-Nov-11
+486,Nizamabad,Banswada,Wheat,Other,FAQ,1100,1500,1300,01-Nov-11
+487,Nizamabad,Banswada,Wheat,Other,FAQ,1000,1200,1100,20-Oct-11
+488,Nizamabad,Banswada,Wheat,Other,FAQ,950,1000,980,19-Oct-11
+489,Nizamabad,Banswada,Wheat,Other,FAQ,950,1050,1000,13-Oct-11
+490,Nizamabad,Banswada,Wheat,Other,FAQ,950,1050,1000,12-Oct-11
+491,Nizamabad,Banswada,Wheat,Other,FAQ,950,1050,1000,07-Oct-11
+492,Nizamabad,Banswada,Wheat,Other,FAQ,1000,1050,1025,05-Oct-11
+493,Nizamabad,Banswada,Wheat,Other,FAQ,1000,1050,1025,29-Sep-11
+494,Nizamabad,Banswada,Wheat,Other,FAQ,1000,1050,1025,23-Sep-11
+495,Nizamabad,Banswada,Wheat,Other,FAQ,1000,1050,1025,22-Sep-11
+496,Nizamabad,Banswada,Wheat,Other,FAQ,1000,1050,1025,21-Sep-11
+497,Nizamabad,Banswada,Wheat,Other,FAQ,1000,1050,1020,20-Sep-11
+498,Nizamabad,Banswada,Wheat,Other,FAQ,1000,1050,1025,19-Sep-11
+499,Nizamabad,Banswada,Wheat,Other,FAQ,1000,1100,1050,26-Aug-11
+500,Nizamabad,Banswada,Wheat,Other,FAQ,1000,1100,1050,23-Aug-11
+501,Nizamabad,Banswada,Wheat,Other,FAQ,1000,1100,1050,22-Aug-11
+502,Nizamabad,Banswada,Wheat,Other,FAQ,1000,1150,1080,21-Aug-11
+503,Nizamabad,Banswada,Wheat,Other,FAQ,1000,1100,1050,20-Aug-11
+504,Nizamabad,Banswada,Wheat,Other,FAQ,1000,1100,1050,18-Aug-11
+505,Nizamabad,Banswada,Wheat,Other,FAQ,1000,1100,1050,17-Aug-11
+506,Nizamabad,Banswada,Wheat,Other,FAQ,1000,1100,1060,16-Aug-11
+507,Nizamabad,Banswada,Wheat,Other,FAQ,1000,1100,1040,15-Aug-11
+508,Nizamabad,Banswada,Wheat,Other,FAQ,1000,1100,1060,14-Aug-11
+509,Nizamabad,Banswada,Wheat,Other,FAQ,0,0,1100,12-Aug-11
+510,Nizamabad,Banswada,Wheat,Other,FAQ,1020,1150,1100,05-Aug-11
+511,Nizamabad,Banswada,Wheat,Other,FAQ,1000,1150,1100,04-Aug-11
+512,Nizamabad,Banswada,Wheat,Other,FAQ,1000,1150,1120,03-Aug-11
+513,Nizamabad,Banswada,Wheat,Other,FAQ,1000,1150,1100,02-Aug-11
+514,Nizamabad,Banswada,Wheat,Other,FAQ,1000,1150,1100,01-Aug-11
+515,Nizamabad,Banswada,Wheat,Other,FAQ,1000,1180,1100,29-Jul-11
+516,Nizamabad,Banswada,Wheat,Other,FAQ,1000,1200,1120,28-Jul-11
+517,Nizamabad,Banswada,Wheat,Other,FAQ,1000,1200,1120,27-Jul-11
+518,Nizamabad,Banswada,Wheat,Other,FAQ,1000,1200,1100,26-Jul-11
+519,Nizamabad,Banswada,Wheat,Other,FAQ,1020,1200,1120,25-Jul-11
+520,Nizamabad,Banswada,Wheat,Other,FAQ,1000,1200,1120,24-Jul-11
+521,Nizamabad,Banswada,Wheat,Other,FAQ,1000,1200,1120,23-Jul-11
+522,Nizamabad,Banswada,Wheat,Other,FAQ,1000,1200,1100,22-Jul-11
+523,Nizamabad,Banswada,Wheat,Other,FAQ,1000,1200,1100,21-Jul-11
+524,Nizamabad,Banswada,Wheat,Other,FAQ,1000,1200,1100,20-Jul-11
+525,Nizamabad,Banswada,Wheat,Other,FAQ,1000,1200,1100,19-Jul-11
+526,Nizamabad,Banswada,Wheat,Other,FAQ,1025,1180,1120,18-Jul-11
+527,Nizamabad,Banswada,Wheat,Other,FAQ,1000,1200,1100,17-Jul-11
+528,Nizamabad,Banswada,Wheat,Other,FAQ,1000,1200,1100,16-Jul-11
+529,Nizamabad,Banswada,Wheat,Other,FAQ,1050,1250,1120,15-Jul-11
+530,Nizamabad,Banswada,Wheat,Other,FAQ,1050,1250,1120,14-Jul-11
+531,Nizamabad,Banswada,Wheat,Other,FAQ,1060,1200,1125,13-Jul-11
+532,Nizamabad,Banswada,Wheat,Other,FAQ,1080,1280,1120,12-Jul-11
+533,Nizamabad,Banswada,Wheat,Other,FAQ,1100,1250,1120,11-Jul-11
+534,Nizamabad,Banswada,Wheat,Other,FAQ,1050,1250,1120,10-Jul-11
+535,Nizamabad,Banswada,Wheat,Other,FAQ,1050,1250,1120,09-Jul-11
+536,Nizamabad,Banswada,Wheat,Other,FAQ,1050,1250,1120,08-Jul-11
+537,Nizamabad,Banswada,Wheat,Other,FAQ,1050,1250,1120,07-Jul-11
+538,Nizamabad,Banswada,Wheat,Other,FAQ,1050,1250,1120,06-Jul-11
+539,Nizamabad,Banswada,Wheat,Other,FAQ,1025,1200,1120,05-Jul-11
+540,Nizamabad,Banswada,Wheat,Other,FAQ,1000,1200,1120,04-Jul-11
+541,Nizamabad,Banswada,Wheat,Other,FAQ,1000,1200,1120,03-Jul-11
+542,Nizamabad,Banswada,Wheat,Other,FAQ,1000,1200,1120,02-Jul-11
+543,Nizamabad,Banswada,Wheat,Other,FAQ,1100,1150,1120,01-Jul-11
+544,Nizamabad,Banswada,Wheat,Other,FAQ,1000,1200,1120,30-Jun-11
+545,Nizamabad,Banswada,Wheat,Other,FAQ,1100,1150,1120,29-Jun-11
+546,Nizamabad,Banswada,Wheat,Other,FAQ,1000,1200,1120,28-Jun-11
+547,Nizamabad,Banswada,Wheat,Other,FAQ,1100,1140,1120,27-Jun-11
+548,Nizamabad,Banswada,Wheat,Other,FAQ,1050,1150,1120,24-Jun-11
+549,Nizamabad,Banswada,Wheat,Other,FAQ,1120,1120,1120,23-Jun-11
+550,Nizamabad,Banswada,Wheat,Other,FAQ,1120,1120,1120,22-Jun-11
+551,Adilabad,Bhainsa,Wheat,Deshi,FAQ,1881,1881,1881,29-Sep-18
+552,Adilabad,Bhainsa,Wheat,Deshi,FAQ,1905,1905,1905,24-Aug-18
+553,Adilabad,Bhainsa,Wheat,Deshi,FAQ,1912,1921,1921,14-Aug-18
+554,Adilabad,Bhainsa,Wheat,Deshi,FAQ,1859,1859,1859,25-Jul-18
+555,Adilabad,Bhainsa,Wheat,Deshi,FAQ,1829,1829,1829,23-Jul-18
+556,Adilabad,Bhainsa,Wheat,Deshi,FAQ,1833,1833,1833,17-Jul-18
+557,Adilabad,Bhainsa,Wheat,Deshi,FAQ,1761,1761,1761,16-Jul-18
+558,Adilabad,Bhainsa,Wheat,Deshi,FAQ,1781,1781,1781,11-Jul-18
+559,Adilabad,Bhainsa,Wheat,Deshi,FAQ,1631,1757,1757,03-Jul-18
+560,Adilabad,Bhainsa,Wheat,Deshi,FAQ,1721,1721,1721,27-Jun-18
+561,Adilabad,Bhainsa,Wheat,Deshi,FAQ,1721,1721,1721,26-Jun-18
+562,Adilabad,Bhainsa,Wheat,Deshi,FAQ,1742,1742,1742,21-Jun-18
+563,Adilabad,Bhainsa,Wheat,Deshi,FAQ,1681,1681,1681,20-Jun-18
+564,Adilabad,Bhainsa,Wheat,Deshi,FAQ,1702,1702,1702,31-May-18
+565,Adilabad,Bhainsa,Wheat,Deshi,Small,1735,1768,1740,30-May-18
+566,Adilabad,Bhainsa,Wheat,Deshi,FAQ,1729,1832,1747,29-May-18
+567,Adilabad,Bhainsa,Wheat,Deshi,FAQ,1715,1747,1735,28-May-18
+568,Adilabad,Bhainsa,Wheat,Other,FAQ,1730,1730,1730,19-May-18
+569,Adilabad,Bhainsa,Wheat,Deshi,FAQ,1729,1729,1729,18-May-18
+570,Adilabad,Bhainsa,Wheat,Deshi,FAQ,1708,1759,1759,17-May-18
+571,Adilabad,Bhainsa,Wheat,Deshi,FAQ,1689,1719,1709,16-May-18
+572,Adilabad,Bhainsa,Wheat,Deshi,FAQ,1718,1718,1718,14-May-18
+573,Adilabad,Bhainsa,Wheat,Deshi,FAQ,1737,1751,1751,11-May-18
+574,Adilabad,Bhainsa,Wheat,Deshi,FAQ,1732,1732,1732,10-May-18
+575,Adilabad,Bhainsa,Wheat,Local,FAQ,1639,1730,1729,03-May-18
+576,Adilabad,Bhainsa,Wheat,Local,FAQ,1649,1721,1718,21-Apr-18
+577,Adilabad,Bhainsa,Wheat,Local,FAQ,1709,1732,1719,19-Apr-18
+578,Adilabad,Bhainsa,Wheat,Local,FAQ,1516,1712,1703,10-Apr-18
+579,Adilabad,Bhainsa,Wheat,Local,FAQ,1709,1709,1709,21-Dec-17
+580,Adilabad,Bhainsa,Wheat,Local,FAQ,1659,1659,1659,12-Oct-17
+581,Adilabad,Bhainsa,Wheat,Local,FAQ,1518,1651,1651,10-Oct-17
+582,Adilabad,Bhainsa,Wheat,Local,FAQ,1718,1718,1718,27-Sep-17
+583,Adilabad,Bhainsa,Wheat,Local,FAQ,1659,1659,1659,25-Sep-17
+584,Adilabad,Bhainsa,Wheat,Local,FAQ,1671,1701,1701,21-Sep-17
+585,Adilabad,Bhainsa,Wheat,Local,FAQ,1673,1673,1673,16-Sep-17
+586,Adilabad,Bhainsa,Wheat,Local,FAQ,1250,1486,1320,13-Sep-17
+587,Adilabad,Bhainsa,Wheat,Local,FAQ,1683,1750,1750,12-Sep-17
+588,Adilabad,Bhainsa,Wheat,Local,FAQ,1705,1716,1710,05-Sep-17
+589,Adilabad,Bhainsa,Wheat,Local,FAQ,1659,1659,1659,31-Aug-17
+590,Adilabad,Bhainsa,Wheat,Other,FAQ,1799,1799,1799,18-Aug-17
+591,Adilabad,Bhainsa,Wheat,Local,FAQ,1759,1759,1759,09-Aug-17
+592,Adilabad,Bhainsa,Wheat,Local,FAQ,1706,1736,1731,04-Aug-17
+593,Adilabad,Bhainsa,Wheat,Local,FAQ,1629,1725,1721,02-Aug-17
+594,Adilabad,Bhainsa,Wheat,Local,FAQ,1699,1699,1699,26-Jul-17
+595,Adilabad,Bhainsa,Wheat,Local,FAQ,1769,1769,1769,22-Jul-17
+596,Adilabad,Bhainsa,Wheat,Other,FAQ,1629,1756,1756,21-Jul-17
+597,Adilabad,Bhainsa,Wheat,Other,FAQ,1756,1756,1756,20-Jul-17
+598,Adilabad,Bhainsa,Wheat,Local,FAQ,1719,1729,1719,11-Jul-17
+599,Adilabad,Bhainsa,Wheat,Local,FAQ,1729,1729,1729,08-Jul-17
+600,Adilabad,Bhainsa,Wheat,Local,FAQ,1722,1722,1722,07-Jul-17
+601,Adilabad,Bhainsa,Wheat,Other,FAQ,1716,1716,1716,01-Jul-17
+602,Adilabad,Bhainsa,Wheat,Local,FAQ,1719,1719,1719,29-Jun-17
+603,Adilabad,Bhainsa,Wheat,Local,FAQ,1683,1683,1683,28-Jun-17
+604,Adilabad,Bhainsa,Wheat,Local,FAQ,1716,1716,1716,23-Jun-17
+605,Adilabad,Bhainsa,Wheat,Local,FAQ,1642,1683,1683,22-Jun-17
+606,Adilabad,Bhainsa,Wheat,Other,FAQ,1709,1709,1709,21-Jun-17
+607,Adilabad,Bhainsa,Wheat,Local,FAQ,1659,1669,1667,17-Jun-17
+608,Adilabad,Bhainsa,Wheat,Deshi,FAQ,1649,1671,1671,14-Jun-17
+609,Adilabad,Bhainsa,Wheat,Local,FAQ,1663,1669,1667,12-Jun-17
+610,Adilabad,Bhainsa,Wheat,Local,FAQ,1628,1679,1652,10-Jun-17
+611,Adilabad,Bhainsa,Wheat,Local,FAQ,1458,1671,1658,07-Jun-17
+612,Adilabad,Bhainsa,Wheat,Local,FAQ,1587,1655,1651,06-Jun-17
+613,Adilabad,Bhainsa,Wheat,Local,FAQ,1641,1670,1669,05-Jun-17
+614,Adilabad,Bhainsa,Wheat,Local,FAQ,1666,1666,1666,03-Jun-17
+615,Adilabad,Bhainsa,Wheat,Local,FAQ,1660,1661,1661,01-Jun-17
+616,Adilabad,Bhainsa,Wheat,Local,FAQ,1580,1666,1636,31-May-17
+617,Adilabad,Bhainsa,Wheat,Local,FAQ,1631,1666,1663,30-May-17
+618,Adilabad,Bhainsa,Wheat,Local,FAQ,1632,1664,1655,24-May-17
+619,Adilabad,Bhainsa,Wheat,Local,FAQ,1636,1662,1652,23-May-17
+620,Adilabad,Bhainsa,Wheat,147 Average,FAQ,1622,1659,1652,22-May-17
+621,Adilabad,Bhainsa,Wheat,Local,FAQ,1659,1662,1662,20-May-17
+622,Adilabad,Bhainsa,Wheat,Local,FAQ,1643,1660,1655,17-May-17
+623,Adilabad,Bhainsa,Wheat,Local,FAQ,1637,1652,1648,16-May-17
+624,Adilabad,Bhainsa,Wheat,Local,FAQ,1627,1661,1653,13-May-17
+625,Adilabad,Bhainsa,Wheat,Local,FAQ,1651,1655,1652,10-May-17
+626,Adilabad,Bhainsa,Wheat,Local,FAQ,1621,1671,1645,09-May-17
+627,Adilabad,Bhainsa,Wheat,Deshi,FAQ,1638,1648,1647,06-May-17
+628,Adilabad,Bhainsa,Wheat,Local,FAQ,1623,1655,1633,04-May-17
+629,Adilabad,Bhainsa,Wheat,Local,FAQ,1622,1711,1663,03-May-17
+630,Adilabad,Bhainsa,Wheat,Local,FAQ,1606,1650,1633,25-Apr-17
+631,Adilabad,Bhainsa,Wheat,Local,FAQ,1611,1650,1627,24-Apr-17
+632,Adilabad,Bhainsa,Wheat,Local,FAQ,1637,1637,1637,22-Apr-17
+633,Adilabad,Bhainsa,Wheat,Local,FAQ,1622,1726,1661,19-Apr-17
+634,Adilabad,Bhainsa,Wheat,Local,FAQ,1644,1656,1652,18-Apr-17
+635,Adilabad,Bhainsa,Wheat,Local,FAQ,1570,1651,1635,17-Apr-17
+636,Adilabad,Bhainsa,Wheat,Local,FAQ,1618,1706,1650,15-Apr-17
+637,Adilabad,Bhainsa,Wheat,Local,FAQ,1573,1711,1656,13-Apr-17
+638,Adilabad,Bhainsa,Wheat,147 Average,FAQ,1641,1651,1641,12-Apr-17
+639,Adilabad,Bhainsa,Wheat,Local,FAQ,1521,1641,1632,11-Apr-17
+640,Adilabad,Bhainsa,Wheat,Local,FAQ,1621,1679,1636,10-Apr-17
+641,Adilabad,Bhainsa,Wheat,Local,FAQ,1592,1699,1619,08-Apr-17
+642,Adilabad,Bhainsa,Wheat,Local,FAQ,1563,1681,1611,07-Apr-17
+643,Adilabad,Bhainsa,Wheat,Local,FAQ,1501,1665,1621,04-Apr-17
+644,Adilabad,Bhainsa,Wheat,Deshi,FAQ,1582,1643,1631,27-Mar-17
+645,Adilabad,Bhainsa,Wheat,Local,FAQ,1525,1625,1606,24-Mar-17
+646,Adilabad,Bhainsa,Wheat,Deshi,FAQ,1588,1651,1641,23-Mar-17
+647,Adilabad,Bhainsa,Wheat,Local,FAQ,1618,1717,1628,22-Mar-17
+648,Adilabad,Bhainsa,Wheat,Deshi,FAQ,1601,1640,1638,21-Mar-17
+649,Adilabad,Bhainsa,Wheat,Deshi,FAQ,1626,1651,1641,20-Mar-17
+650,Adilabad,Bhainsa,Wheat,Deshi,FAQ,1636,1703,1651,16-Mar-17
+651,Adilabad,Bhainsa,Wheat,Deshi,FAQ,1611,1673,1635,15-Mar-17
+652,Adilabad,Bhainsa,Wheat,Deshi,FAQ,1601,1682,1651,14-Mar-17
+653,Adilabad,Bhainsa,Wheat,Deshi,FAQ,1613,1721,1652,09-Mar-17
+654,Adilabad,Bhainsa,Wheat,Deshi,FAQ,1835,1835,1835,08-Feb-17
+655,Adilabad,Bhainsa,Wheat,Local,FAQ,975,1056,1015,19-Apr-08
+656,Adilabad,Bhainsa,Wheat,Local,FAQ,917,917,917,15-May-07
+657,Adilabad,Bhainsa,Wheat,Local,FAQ,925,1101,1013,12-May-07
+658,Adilabad,Bhainsa,Wheat,Local,FAQ,916,926,921,10-May-07
+659,Adilabad,Bhainsa,Wheat,Local,FAQ,900,1077,987,07-May-07
+660,Adilabad,Bhainsa,Wheat,Local,FAQ,900,980,940,04-May-07
+661,Adilabad,Bhainsa,Wheat,Local,FAQ,801,937,869,03-May-07
+662,Adilabad,Bhainsa,Wheat,Local,FAQ,801,937,869,02-May-07
+663,Adilabad,Bhainsa,Wheat,Local,FAQ,930,930,930,30-Apr-07
+664,Adilabad,Bhainsa,Wheat,Deshi,FAQ,930,930,930,28-Apr-07
+665,Adilabad,Bhainsa,Wheat,Local,FAQ,900,945,922,27-Apr-07
+666,Adilabad,Bhainsa,Wheat,Local,FAQ,945,1000,972,26-Apr-07
+667,Adilabad,Bhainsa,Wheat,Local,FAQ,960,1010,985,25-Apr-07
+668,Adilabad,Bhainsa,Wheat,Local,FAQ,960,1010,985,24-Apr-07
+669,Adilabad,Bhainsa,Wheat,Deshi,FAQ,900,1000,950,22-Apr-07
+670,Adilabad,Bhainsa,Wheat,Deshi,FAQ,980,1012,996,21-Apr-07
+671,Adilabad,Bhainsa,Wheat,Deshi,FAQ,980,1012,996,20-Apr-07
+672,Adilabad,Bhainsa,Wheat,Deshi,FAQ,980,1010,995,19-Apr-07
+673,Adilabad,Bhainsa,Wheat,Deshi,FAQ,990,1112,1051,18-Apr-07
+674,Adilabad,Bhainsa,Wheat,Deshi,FAQ,990,1112,1051,16-Apr-07
+675,Adilabad,Bhainsa,Wheat,Deshi,FAQ,970,970,970,15-Apr-07
+676,Adilabad,Bhainsa,Wheat,Deshi,FAQ,970,970,970,14-Apr-07
+677,Adilabad,Bhainsa,Wheat,Deshi,FAQ,970,970,970,13-Apr-07
+678,Adilabad,Bhainsa,Wheat,Deshi,FAQ,971,1077,1024,12-Apr-07
+679,Adilabad,Bhainsa,Wheat,Deshi,FAQ,971,1077,1024,11-Apr-07
+680,Adilabad,Bhainsa,Wheat,Deshi,FAQ,970,1105,1037,10-Apr-07
+681,Adilabad,Bhainsa,Wheat,Deshi,FAQ,970,974,972,09-Apr-07
+682,Adilabad,Bhainsa,Wheat,Sharbati,FAQ,1010,1019,1014,03-Apr-07
+683,Adilabad,Bhainsa,Wheat,Deshi,FAQ,971,1011,991,02-Apr-07
+684,Adilabad,Bhainsa,Wheat,Deshi,FAQ,961,1005,983,30-Mar-07
+685,Adilabad,Bhainsa,Wheat,Deshi,FAQ,900,950,925,28-Mar-07
+686,Adilabad,Bhainsa,Wheat,Sharbati,FAQ,1009,1080,1040,24-Mar-07
+687,Adilabad,Bhainsa,Wheat,Sharbati,FAQ,999,1009,1000,23-Mar-07
+688,Adilabad,Bhainsa,Wheat,Local,FAQ,975,975,975,17-Mar-07
+689,Ranga Reddy,Chevella,Wheat,Local,FAQ,1150,1150,1150,20-Feb-10
+690,Ranga Reddy,Chevella,Wheat,Local,FAQ,1200,1200,1200,30-Jan-10
+691,Ranga Reddy,Chevella,Wheat,Local,FAQ,1100,1100,1100,24-Jan-10
+692,Ranga Reddy,Chevella,Wheat,Local,FAQ,1100,1100,1100,23-Jan-10
+693,Ranga Reddy,Chevella,Wheat,Local,FAQ,1250,1250,1250,23-Sep-09
+694,Ranga Reddy,Chevella,Wheat,Local,FAQ,1200,1200,1200,08-Sep-09
+695,Ranga Reddy,Chevella,Wheat,Local,FAQ,1050,1050,1050,02-Sep-09
+696,Ranga Reddy,Chevella,Wheat,Local,FAQ,1250,1250,1250,01-Sep-09
+697,Ranga Reddy,Chevella,Wheat,Local,FAQ,1100,1100,1100,31-Aug-09
+698,Ranga Reddy,Chevella,Wheat,Local,FAQ,1100,1100,1100,30-Aug-09
+699,Ranga Reddy,Chevella,Wheat,Local,FAQ,1265,1265,1265,28-Aug-09
+700,Ranga Reddy,Chevella,Wheat,Local,FAQ,1250,1250,1250,27-Aug-09
+701,Ranga Reddy,Chevella,Wheat,Local,FAQ,1225,1225,1225,25-Aug-09
+702,Ranga Reddy,Chevella,Wheat,Local,FAQ,1250,1250,1250,23-Aug-09
+703,Ranga Reddy,Chevella,Wheat,Local,FAQ,1160,1345,1250,22-Aug-09
+704,Ranga Reddy,Chevella,Wheat,Local,FAQ,1300,1300,1300,20-Aug-09
+705,Ranga Reddy,Chevella,Wheat,Local,FAQ,1275,1275,1275,18-Aug-09
+706,Ranga Reddy,Chevella,Wheat,Local,FAQ,1300,1300,1300,12-Aug-09
+707,Ranga Reddy,Chevella,Wheat,Local,FAQ,1275,1275,1275,11-Aug-09
+708,Ranga Reddy,Chevella,Wheat,Local,FAQ,1300,1300,1300,10-Aug-09
+709,Ranga Reddy,Chevella,Wheat,Local,FAQ,1230,1230,1230,09-Aug-09
+710,Ranga Reddy,Chevella,Wheat,Local,FAQ,1225,1225,1225,08-Aug-09
+711,Ranga Reddy,Chevella,Wheat,Local,FAQ,1200,1200,1200,07-Aug-09
+712,Ranga Reddy,Chevella,Wheat,Local,FAQ,1200,1200,1200,03-Aug-09
+713,Ranga Reddy,Chevella,Wheat,Local,FAQ,1100,1100,1100,08-Jul-09
+714,Ranga Reddy,Chevella,Wheat,Local,FAQ,975,975,975,02-Jul-09
+715,Ranga Reddy,Chevella,Wheat,Local,FAQ,1000,1000,1000,29-Jun-09
+716,Ranga Reddy,Chevella,Wheat,Local,FAQ,925,925,925,28-Jun-09
+717,Ranga Reddy,Chevella,Wheat,Local,FAQ,1100,1100,1100,23-Jun-09
+718,Ranga Reddy,Chevella,Wheat,Local,FAQ,1000,1250,1125,20-Jun-09
+719,Ranga Reddy,Chevella,Wheat,Local,FAQ,1225,1225,1225,17-Jun-09
+720,Ranga Reddy,Chevella,Wheat,Local,FAQ,1125,1125,1125,16-Jun-09
+721,Ranga Reddy,Chevella,Wheat,Local,FAQ,1100,1100,1100,15-Jun-09
+722,Ranga Reddy,Chevella,Wheat,Local,FAQ,1000,1000,1000,13-Jun-09
+723,Ranga Reddy,Chevella,Wheat,Local,FAQ,945,1290,1117,12-Jun-09
+724,Mahbubnagar,Devarakadra,Wheat,White,FAQ,1400,1400,1400,23-Aug-06
+725,Nizamabad,Gandhari,Wheat,Local,Medium,1500,1500,1500,15-Jul-17
+726,Nizamabad,Gandhari,Wheat,Local,Medium,2000,2000,2000,16-Jun-17
+727,Hyderabad,Hyderabad (F&V),Wheat,Kalyan,FAQ,850,920,870,07-Jan-05
+728,Karimnagar,Jammikunta,Wheat,Local,Small,1285,1285,1285,13-Sep-10
+729,Karimnagar,Jammikunta,Wheat,Local,Small,1275,1275,1275,20-May-10
+730,Karimnagar,Jammikunta,Wheat,Local,Small,1275,1275,1275,04-May-10
+731,Karimnagar,Jammikunta,Wheat,Local,Small,1085,1085,1085,23-Mar-10
+732,Medak,Jogipet,Wheat,Local,FAQ,1300,1300,1300,22-Apr-18
+733,Medak,Jogipet,Wheat,Local,FAQ,1200,1400,1300,15-Apr-18
+734,Medak,Jogipet,Wheat,Local,FAQ,1500,1500,1500,01-Apr-18
+735,Medak,Jogipet,Wheat,Local,FAQ,1200,1200,1200,20-Mar-18
+736,Medak,Jogipet,Wheat,Local,FAQ,1301,1301,1301,14-Mar-18
+737,Medak,Jogipet,Wheat,Local,FAQ,805,805,805,12-Mar-18
+738,Medak,Jogipet,Wheat,Local,FAQ,1450,1450,1450,26-May-17
+739,Medak,Jogipet,Wheat,Deshi,FAQ,1298,1298,1298,02-May-17
+740,Medak,Jogipet,Wheat,Local,FAQ,1570,1570,1570,25-Apr-17
+741,Medak,Jogipet,Wheat,Deshi,FAQ,1531,1531,1531,16-Apr-17
+742,Medak,Jogipet,Wheat,Deshi,FAQ,1905,1905,1905,02-Apr-17
+743,Medak,Jogipet,Wheat,Local,FAQ,1200,1200,1200,20-Mar-16
+744,Medak,Jogipet,Wheat,Local,FAQ,1310,3020,2165,26-Apr-15
+745,Medak,Jogipet,Wheat,Local,FAQ,1256,1272,1264,21-Apr-15
+746,Medak,Jogipet,Wheat,Local,FAQ,1200,1472,1336,19-Apr-15
+747,Medak,Jogipet,Wheat,Local,FAQ,1350,1350,1350,10-Apr-15
+748,Medak,Jogipet,Wheat,Local,FAQ,1520,1520,1520,21-May-14
+749,Medak,Jogipet,Wheat,Local,FAQ,1400,1545,1475,01-Jul-13
+750,Medak,Jogipet,Wheat,Local,FAQ,1100,1100,1100,20-Apr-09
+751,Medak,Jogipet,Wheat,Local,FAQ,1050,1100,1075,19-Apr-09
+752,Medak,Jogipet,Wheat,Local,FAQ,1000,1100,1050,18-Apr-09
+753,Medak,Jogipet,Wheat,Local,FAQ,1000,1100,1050,17-Apr-09
+754,Medak,Jogipet,Wheat,Local,FAQ,1000,1100,1050,16-Apr-09
+755,Medak,Jogipet,Wheat,Local,FAQ,1000,1100,1050,15-Apr-09
+756,Medak,Jogipet,Wheat,Local,FAQ,1000,1100,1050,14-Apr-09
+757,Medak,Jogipet,Wheat,Other,FAQ,1080,1110,1095,09-Apr-09
+758,Medak,Jogipet,Wheat,Local,FAQ,1100,1125,1112,08-Apr-09
+759,Medak,Jogipet,Wheat,Local,FAQ,1100,1125,1112,07-Apr-09
+760,Medak,Jogipet,Wheat,Local,FAQ,1080,1110,1095,06-Apr-09
+761,Medak,Jogipet,Wheat,Local,FAQ,1090,1151,1120,05-Apr-09
+762,Medak,Jogipet,Wheat,Local,FAQ,1090,1151,1120,04-Apr-09
+763,Medak,Jogipet,Wheat,Local,FAQ,1090,1151,1120,03-Apr-09
+764,Medak,Jogipet,Wheat,Local,FAQ,1110,1125,1112,02-Apr-09
+765,Medak,Jogipet,Wheat,Local,FAQ,1100,1125,1112,01-Apr-09
+766,Medak,Jogipet,Wheat,Local,FAQ,1106,1128,1117,31-Mar-09
+767,Medak,Jogipet,Wheat,Local,FAQ,1106,1128,1117,30-Mar-09
+768,Medak,Jogipet,Wheat,Local,FAQ,1106,1128,1117,29-Mar-09
+769,Medak,Jogipet,Wheat,Local,FAQ,1090,1140,1115,28-Mar-09
+770,Medak,Jogipet,Wheat,Local,FAQ,1090,1140,1115,27-Mar-09
+771,Medak,Jogipet,Wheat,Local,FAQ,1090,1140,1115,26-Mar-09
+772,Medak,Jogipet,Wheat,Local,FAQ,1090,1140,1115,25-Mar-09
+773,Medak,Jogipet,Wheat,Local,FAQ,1100,1249,1174,24-Mar-09
+774,Medak,Jogipet,Wheat,Local,FAQ,1070,1200,1135,23-Mar-09
+775,Medak,Jogipet,Wheat,Local,FAQ,1134,1200,1167,22-Mar-09
+776,Medak,Jogipet,Wheat,Local,FAQ,1121,1150,1135,21-Mar-09
+777,Medak,Jogipet,Wheat,Local,FAQ,1121,1150,1135,20-Mar-09
+778,Medak,Jogipet,Wheat,Local,FAQ,973,1162,1067,19-Mar-09
+779,Medak,Jogipet,Wheat,Local,FAQ,950,1180,1065,18-Mar-09
+780,Medak,Jogipet,Wheat,Local,FAQ,1101,1320,1210,17-Mar-09
+781,Medak,Jogipet,Wheat,Local,FAQ,1000,1111,1055,16-Mar-09
+782,Medak,Jogipet,Wheat,Local,FAQ,980,1135,1057,15-Mar-09
+783,Medak,Jogipet,Wheat,Local,FAQ,1020,1130,1075,14-Mar-09
+784,Medak,Jogipet,Wheat,Local,FAQ,1020,1130,1075,13-Mar-09
+785,Medak,Jogipet,Wheat,Local,FAQ,1040,1101,1070,08-Mar-09
+786,Medak,Jogipet,Wheat,Local,FAQ,1090,1200,1145,01-Mar-09
+787,Medak,Jogipet,Wheat,Local,FAQ,1030,1030,1030,28-Feb-09
+788,Medak,Jogipet,Wheat,Local,FAQ,1030,1030,1030,27-Feb-09
+789,Medak,Jogipet,Wheat,Local,FAQ,1169,1169,1169,18-Feb-09
+790,Medak,Jogipet,Wheat,Local,FAQ,950,957,955,16-Jan-09
+791,Medak,Jogipet,Wheat,Local,FAQ,740,1050,895,07-Jan-09
+792,Medak,Jogipet,Wheat,Local,FAQ,740,1050,895,06-Jan-09
+793,Medak,Jogipet,Wheat,Local,FAQ,740,1050,895,05-Jan-09
+794,Medak,Jogipet,Wheat,Local,FAQ,900,1110,1005,26-Sep-08
+795,Medak,Jogipet,Wheat,Local,FAQ,900,1030,965,15-Jun-08
+796,Medak,Jogipet,Wheat,Local,FAQ,900,940,920,08-Jun-08
+797,Medak,Jogipet,Wheat,Local,FAQ,850,950,890,07-Jun-08
+798,Medak,Jogipet,Wheat,Local,FAQ,860,930,895,30-May-08
+799,Medak,Jogipet,Wheat,Local,FAQ,950,950,950,29-Aug-07
+800,Medak,Jogipet,Wheat,Local,FAQ,1070,1075,1072,24-Aug-07
+801,Medak,Jogipet,Wheat,Local,FAQ,1073,1073,1073,23-Aug-07
+802,Medak,Jogipet,Wheat,Other,FAQ,980,980,980,26-Jun-07
+803,Medak,Jogipet,Wheat,Other,FAQ,940,940,940,25-Jun-07
+804,Medak,Jogipet,Wheat,Local,FAQ,1000,1000,1000,20-Jun-07
+805,Medak,Jogipet,Wheat,Local,FAQ,1000,1000,1000,19-Jun-07
+806,Medak,Jogipet,Wheat,Local,FAQ,900,925,912,24-Sep-06
+807,Medak,Jogipet,Wheat,Local,FAQ,600,850,725,10-Sep-06
+808,Medak,Jogipet,Wheat,Other,FAQ,930,930,930,04-Sep-06
+809,Medak,Jogipet,Wheat,Local,FAQ,1600,1650,1625,03-Sep-06
+810,Medak,Jogipet,Wheat,Local,FAQ,925,925,925,31-Aug-06
+811,Medak,Jogipet,Wheat,Local,FAQ,900,933,916,25-Aug-06
+812,Medak,Jogipet,Wheat,Local,FAQ,860,930,895,20-Aug-06
+813,Medak,Jogipet,Wheat,Local,FAQ,1100,1178,1165,13-Aug-06
+814,Medak,Jogipet,Wheat,Deshi,FAQ,880,890,885,14-Jul-06
+815,Medak,Jogipet,Wheat,Deshi,FAQ,800,900,850,09-Jul-06
+816,Medak,Jogipet,Wheat,Bansi,FAQ,500,730,615,18-Jul-04
+817,Karimnagar,Karimnagar,Wheat,Local,Medium,1300,1300,1300,05-Oct-15
+818,Karimnagar,Karimnagar,Wheat,Local,FAQ,1110,1110,1110,24-Mar-09
+819,Adilabad,Khanapur,Wheat,Other,FAQ,1435,1465,1450,28-Jun-14
+820,Adilabad,Khanapur,Wheat,Other,FAQ,1380,1500,1440,30-May-14
+821,Adilabad,Khanapur,Wheat,Other,FAQ,1300,1460,1380,29-May-14
+822,Adilabad,Khanapur,Wheat,Other,FAQ,1400,1550,1475,28-May-14
+823,Adilabad,Khanapur,Wheat,Other,FAQ,1400,1500,1450,22-May-14
+824,Adilabad,Khanapur,Wheat,Other,FAQ,1040,1206,1090,14-Apr-10
+825,Adilabad,Khanapur,Wheat,Other,FAQ,1060,1238,1115,01-Apr-10
+826,Adilabad,Khanapur,Wheat,Other,FAQ,1000,1201,1060,29-Mar-10
+827,Adilabad,Khanapur,Wheat,Other,FAQ,1017,1200,1080,27-Mar-10
+828,Adilabad,Khanapur,Wheat,Other,FAQ,1016,1133,1087,26-Mar-10
+829,Adilabad,Khanapur,Wheat,Other,FAQ,1016,1141,1100,25-Mar-10
+830,Adilabad,Khanapur,Wheat,Other,FAQ,1025,1241,1137,22-Mar-10
+831,Adilabad,Khanapur,Wheat,Other,FAQ,1078,1299,1153,20-Mar-10
+832,Adilabad,Khanapur,Wheat,Other,FAQ,1075,1280,1160,19-Mar-10
+833,Adilabad,Khanapur,Wheat,Other,FAQ,1070,1290,1150,18-Mar-10
+834,Adilabad,Khanapur,Wheat,Other,FAQ,1099,1250,1176,17-Mar-10
+835,Adilabad,Khanapur,Wheat,Other,FAQ,1081,1296,1240,16-Mar-10
+836,Adilabad,Khanapur,Wheat,Other,FAQ,1165,1310,1165,13-Mar-10
+837,Adilabad,Khanapur,Wheat,Other,FAQ,1130,1301,1155,12-Mar-10
+838,Adilabad,Khanapur,Wheat,Other,FAQ,1198,1235,1210,11-Mar-10
+839,Adilabad,Khanapur,Wheat,Other,FAQ,1133,1210,1150,10-Mar-10
+840,Adilabad,Khanapur,Wheat,Other,FAQ,1158,1170,1158,09-Mar-10
+841,Adilabad,Khanapur,Wheat,Other,FAQ,1125,1208,1167,08-Mar-10
+842,Adilabad,Khanapur,Wheat,Other,FAQ,1075,1171,1100,06-Mar-10
+843,Adilabad,Khanapur,Wheat,Other,FAQ,1099,1135,1130,05-Mar-10
+844,Adilabad,Khanapur,Wheat,Other,FAQ,1080,1203,1203,04-Mar-10
+845,Adilabad,Khanapur,Wheat,Other,FAQ,1026,1099,1099,02-Mar-10
+846,Adilabad,Khanapur,Wheat,Other,FAQ,1240,1265,1260,23-Feb-10
+847,Adilabad,Khanapur,Wheat,Other,FAQ,1250,1299,1270,22-Feb-10
+848,Adilabad,Khanapur,Wheat,Other,FAQ,1260,1431,1360,20-Feb-10
+849,Adilabad,Khanapur,Wheat,Other,FAQ,995,1075,1075,20-Jun-09
+850,Adilabad,Khanapur,Wheat,Other,FAQ,1085,1085,1085,19-Jun-09
+851,Adilabad,Khanapur,Wheat,Other,FAQ,1052,1141,1141,18-Jun-09
+852,Adilabad,Khanapur,Wheat,Other,FAQ,1060,1092,1092,17-Jun-09
+853,Adilabad,Khanapur,Wheat,Other,FAQ,985,1099,1070,16-Jun-09
+854,Adilabad,Khanapur,Wheat,Other,FAQ,1050,1221,1070,15-Jun-09
+855,Adilabad,Khanapur,Wheat,Other,FAQ,1042,1074,1060,13-Jun-09
+856,Adilabad,Khanapur,Wheat,Other,FAQ,1060,1178,1075,12-Jun-09
+857,Adilabad,Khanapur,Wheat,Other,FAQ,1041,1229,1090,11-Jun-09
+858,Adilabad,Khanapur,Wheat,Other,FAQ,990,1177,1090,10-Jun-09
+859,Adilabad,Khanapur,Wheat,Other,FAQ,975,1100,1050,09-Jun-09
+860,Adilabad,Khanapur,Wheat,Other,FAQ,1069,1109,1090,08-Jun-09
+861,Adilabad,Khanapur,Wheat,Other,FAQ,1050,1184,1100,05-Jun-09
+862,Adilabad,Khanapur,Wheat,Other,FAQ,1079,1185,1150,04-Jun-09
+863,Adilabad,Khanapur,Wheat,Other,FAQ,1050,1095,1080,03-Jun-09
+864,Adilabad,Khanapur,Wheat,Other,FAQ,1070,1186,1150,02-Jun-09
+865,Adilabad,Khanapur,Wheat,Other,FAQ,1076,1202,1150,01-Jun-09
+866,Adilabad,Khanapur,Wheat,Other,FAQ,1060,1099,1080,29-May-09
+867,Adilabad,Khanapur,Wheat,Other,FAQ,1050,1213,1140,28-May-09
+868,Adilabad,Khanapur,Wheat,Other,FAQ,1090,1090,1090,27-May-09
+869,Adilabad,Khanapur,Wheat,Other,FAQ,1080,1195,1160,26-May-09
+870,Adilabad,Khanapur,Wheat,Other,FAQ,1070,1175,1140,25-May-09
+871,Adilabad,Khanapur,Wheat,Other,FAQ,1000,1106,1050,23-May-09
+872,Adilabad,Khanapur,Wheat,Other,FAQ,1128,1203,1150,22-May-09
+873,Adilabad,Khanapur,Wheat,Other,FAQ,1040,1118,1060,21-May-09
+874,Adilabad,Khanapur,Wheat,Other,FAQ,1080,1106,1090,20-May-09
+875,Adilabad,Khanapur,Wheat,Other,FAQ,1077,1205,1110,19-May-09
+876,Adilabad,Khanapur,Wheat,Other,FAQ,1050,1191,1074,18-May-09
+877,Adilabad,Khanapur,Wheat,Other,FAQ,1050,1180,1075,16-May-09
+878,Adilabad,Khanapur,Wheat,Other,FAQ,1050,1160,1050,15-May-09
+879,Adilabad,Khanapur,Wheat,Other,FAQ,1040,1153,1055,14-May-09
+880,Adilabad,Khanapur,Wheat,Other,FAQ,1007,1160,1030,13-May-09
+881,Adilabad,Khanapur,Wheat,Other,FAQ,1036,1126,1036,12-May-09
+882,Adilabad,Khanapur,Wheat,Other,FAQ,1017,1141,1033,11-May-09
+883,Adilabad,Khanapur,Wheat,Other,FAQ,1000,1141,1020,09-May-09
+884,Adilabad,Khanapur,Wheat,Other,FAQ,1000,1000,1000,08-May-09
+885,Adilabad,Khanapur,Wheat,Other,FAQ,1015,1045,1015,04-May-09
+886,Adilabad,Khanapur,Wheat,Other,FAQ,990,1130,1101,02-May-09
+887,Adilabad,Khanapur,Wheat,Other,FAQ,1030,1160,1100,01-May-09
+888,Adilabad,Khanapur,Wheat,Other,FAQ,1000,1150,1100,30-Apr-09
+889,Adilabad,Khanapur,Wheat,Other,FAQ,995,1013,1008,29-Apr-09
+890,Adilabad,Khanapur,Wheat,Other,FAQ,966,1150,1012,28-Apr-09
+891,Adilabad,Khanapur,Wheat,Other,FAQ,990,1150,1022,24-Apr-09
+892,Adilabad,Khanapur,Wheat,Other,FAQ,999,1100,1029,23-Apr-09
+893,Adilabad,Khanapur,Wheat,Other,FAQ,961,1180,1020,22-Apr-09
+894,Adilabad,Khanapur,Wheat,Other,FAQ,1015,1149,1026,21-Apr-09
+895,Adilabad,Khanapur,Wheat,Other,FAQ,990,1120,1010,20-Apr-09
+896,Adilabad,Khanapur,Wheat,Other,FAQ,997,1145,1011,17-Apr-09
+897,Adilabad,Khanapur,Wheat,Other,FAQ,990,1138,1025,16-Apr-09
+898,Adilabad,Khanapur,Wheat,Other,FAQ,990,1170,1030,15-Apr-09
+899,Adilabad,Khanapur,Wheat,Other,FAQ,1010,1100,1050,14-Apr-09
+900,Adilabad,Khanapur,Wheat,Other,FAQ,1009,1125,1023,13-Apr-09
+901,Adilabad,Khanapur,Wheat,Other,FAQ,970,1121,1010,11-Apr-09
+902,Adilabad,Khanapur,Wheat,Other,FAQ,990,1071,991,10-Apr-09
+903,Adilabad,Khanapur,Wheat,Other,FAQ,991,1011,1011,09-Apr-09
+904,Adilabad,Khanapur,Wheat,Other,FAQ,996,1099,1015,08-Apr-09
+905,Adilabad,Khanapur,Wheat,Other,FAQ,1000,1060,1005,06-Apr-09
+906,Adilabad,Khanapur,Wheat,Other,FAQ,990,1025,1009,04-Apr-09
+907,Adilabad,Khanapur,Wheat,Other,FAQ,1010,1056,1026,03-Apr-09
+908,Adilabad,Khanapur,Wheat,Other,FAQ,994,1055,1020,02-Apr-09
+909,Adilabad,Khanapur,Wheat,Other,FAQ,1010,1060,1035,01-Apr-09
+910,Adilabad,Khanapur,Wheat,Other,FAQ,995,1041,1030,31-Mar-09
+911,Adilabad,Khanapur,Wheat,Other,FAQ,994,1087,1026,30-Mar-09
+912,Adilabad,Khanapur,Wheat,Other,FAQ,1001,1075,1004,28-Mar-09
+913,Adilabad,Khanapur,Wheat,Other,FAQ,950,1060,1021,27-Mar-09
+914,Adilabad,Khanapur,Wheat,Other,FAQ,980,1040,1004,26-Mar-09
+915,Adilabad,Khanapur,Wheat,Other,FAQ,1011,1061,1027,25-Mar-09
+916,Adilabad,Khanapur,Wheat,Other,FAQ,966,1042,1026,23-Mar-09
+917,Adilabad,Khanapur,Wheat,Other,FAQ,1020,1050,1035,21-Mar-09
+918,Adilabad,Khanapur,Wheat,Other,FAQ,985,1028,1018,20-Mar-09
+919,Adilabad,Khanapur,Wheat,Other,FAQ,1025,1065,1040,19-Mar-09
+920,Adilabad,Khanapur,Wheat,Other,FAQ,966,1050,1030,18-Mar-09
+921,Adilabad,Khanapur,Wheat,Other,FAQ,1025,1040,1030,17-Mar-09
+922,Adilabad,Khanapur,Wheat,Other,FAQ,1030,1036,1035,16-Mar-09
+923,Adilabad,Khanapur,Wheat,Other,FAQ,1020,1020,1020,14-Mar-09
+924,Adilabad,Khanapur,Wheat,Other,FAQ,1000,1030,1010,13-Mar-09
+925,Adilabad,Khanapur,Wheat,Other,FAQ,1048,1050,1048,12-Mar-09
+926,Adilabad,Khanapur,Wheat,Other,FAQ,1030,1050,1035,09-Mar-09
+927,Adilabad,Khanapur,Wheat,Other,FAQ,1030,1050,1040,06-Mar-09
+928,Adilabad,Khanapur,Wheat,Other,FAQ,1050,1070,1050,04-Mar-09
+929,Adilabad,Khanapur,Wheat,Other,FAQ,1035,1105,1055,03-Mar-09
+930,Adilabad,Khanapur,Wheat,Other,FAQ,1040,1100,1064,02-Mar-09
+931,Adilabad,Khanapur,Wheat,Other,FAQ,1039,1092,1055,26-Feb-09
+932,Adilabad,Khanapur,Wheat,Other,FAQ,1035,1064,1045,25-Feb-09
+933,Adilabad,Khanapur,Wheat,Other,FAQ,1010,1055,1045,24-Feb-09
+934,Adilabad,Khanapur,Wheat,Other,FAQ,1000,1050,1040,21-Feb-09
+935,Adilabad,Khanapur,Wheat,Other,FAQ,1004,1080,1042,20-Feb-09
+936,Adilabad,Khanapur,Wheat,Other,FAQ,1019,1060,1030,19-Feb-09
+937,Adilabad,Khanapur,Wheat,Other,FAQ,1024,1040,1030,18-Feb-09
+938,Adilabad,Khanapur,Wheat,Other,FAQ,1025,1040,1030,17-Feb-09
+939,Adilabad,Khanapur,Wheat,Other,FAQ,1025,1090,1055,16-Feb-09
+940,Adilabad,Khanapur,Wheat,Other,FAQ,1020,1060,1044,14-Feb-09
+941,Adilabad,Khanapur,Wheat,Other,FAQ,1025,1075,1050,13-Feb-09
+942,Adilabad,Khanapur,Wheat,Other,FAQ,1030,1050,1035,12-Feb-09
+943,Adilabad,Khanapur,Wheat,Other,FAQ,1029,1060,1040,11-Feb-09
+944,Adilabad,Khanapur,Wheat,Other,FAQ,1035,1090,1065,10-Feb-09
+945,Adilabad,Khanapur,Wheat,Other,FAQ,1040,1060,1050,09-Feb-09
+946,Adilabad,Khanapur,Wheat,Other,FAQ,1025,1034,1025,07-Feb-09
+947,Adilabad,Khanapur,Wheat,Other,FAQ,1035,1050,1035,06-Feb-09
+948,Adilabad,Khanapur,Wheat,Other,FAQ,1011,1045,1038,05-Feb-09
+949,Adilabad,Khanapur,Wheat,Other,FAQ,1031,1080,1045,04-Feb-09
+950,Adilabad,Khanapur,Wheat,Other,FAQ,1023,1069,1049,03-Feb-09
+951,Adilabad,Khanapur,Wheat,Other,FAQ,1040,1052,1045,02-Feb-09
+952,Adilabad,Khanapur,Wheat,Other,FAQ,1028,1110,1074,30-Jan-09
+953,Adilabad,Khanapur,Wheat,Other,FAQ,900,1010,910,01-Nov-08
+954,Adilabad,Khanapur,Wheat,Other,FAQ,1013,1035,1022,16-Jun-08
+955,Adilabad,Khanapur,Wheat,Other,FAQ,901,1050,1000,29-Mar-08
+956,Karimnagar,Koratla,Wheat,Local,Medium,1500,1500,1500,25-Oct-13
+957,Warangal,Mahabubabad,Wheat,Other,FAQ,1135,1170,1155,29-May-11
+958,Warangal,Mahabubabad,Wheat,Other,FAQ,1130,1180,1170,28-May-11
+959,Warangal,Mahabubabad,Wheat,Other,FAQ,1120,1170,1155,27-May-11
+960,Warangal,Mahabubabad,Wheat,Other,FAQ,1125,1175,1150,26-May-11
+961,Warangal,Mahabubabad,Wheat,Other,FAQ,1120,1170,1140,25-May-11
+962,Warangal,Mahabubabad,Wheat,Other,FAQ,1100,1160,1125,23-May-11
+963,Warangal,Mahabubabad,Wheat,Other,FAQ,1100,1150,1120,22-May-11
+964,Warangal,Mahabubabad,Wheat,Other,FAQ,1120,1170,1150,21-May-11
+965,Warangal,Mahabubabad,Wheat,Other,FAQ,950,960,0,25-Aug-07
+966,Warangal,Mahabubabad,Wheat,Other,FAQ,920,933,0,23-Aug-07
+967,Warangal,Mahabubabad,Wheat,Other,FAQ,925,935,0,22-Aug-07
+968,Warangal,Mahabubabad,Wheat,Other,FAQ,925,935,0,21-Aug-07
+969,Warangal,Mahabubabad,Wheat,Other,FAQ,920,930,0,19-Aug-07
+970,Warangal,Mahabubabad,Wheat,Other,FAQ,900,922,0,18-Aug-07
+971,Warangal,Mahabubabad,Wheat,Other,FAQ,930,945,0,16-Aug-07
+972,Warangal,Mahabubabad,Wheat,Other,FAQ,930,935,0,14-Aug-07
+973,Warangal,Mahabubabad,Wheat,Other,FAQ,940,951,0,13-Aug-07
+974,Warangal,Mahabubabad,Wheat,Other,FAQ,940,950,0,12-Aug-07
+975,Warangal,Mahabubabad,Wheat,Other,FAQ,950,960,0,11-Aug-07
+976,Khammam,Nagur,Wheat,Other,FAQ,1000,1050,1025,28-Nov-11
+977,Khammam,Nagur,Wheat,Other,FAQ,1000,1150,1075,22-Oct-11
+978,Khammam,Nagur,Wheat,Other,FAQ,1000,1150,1075,21-Oct-11
+979,Khammam,Nagur,Wheat,Other,FAQ,900,1100,1000,10-Oct-11
+980,Khammam,Nagur,Wheat,Other,FAQ,1050,1200,1125,27-Aug-11
+981,Khammam,Nagur,Wheat,Other,FAQ,1175,1250,1210,09-Aug-11
+982,Khammam,Nagur,Wheat,Other,FAQ,900,1000,950,07-Nov-07
+983,Khammam,Nagur,Wheat,Other,FAQ,800,900,850,21-Sep-07
+984,Khammam,Nagur,Wheat,Other,FAQ,800,900,850,20-Sep-07
+985,Khammam,Nagur,Wheat,Other,FAQ,800,900,850,18-Sep-07
+986,Khammam,Nagur,Wheat,Other,FAQ,850,925,885,25-Aug-07
+987,Khammam,Nagur,Wheat,Other,FAQ,900,1000,950,24-Aug-07
+988,Khammam,Nagur,Wheat,Other,FAQ,925,1000,960,13-Aug-07
+989,Khammam,Nagur,Wheat,Other,FAQ,900,940,920,02-Aug-07
+990,Khammam,Nagur,Wheat,Other,FAQ,925,1000,960,20-Jul-07
+991,Khammam,Nagur,Wheat,Other,FAQ,925,1000,965,19-Jul-07
+992,Khammam,Nagur,Wheat,Other,FAQ,925,1000,948,17-Jul-07
+993,Khammam,Nagur,Wheat,Other,FAQ,925,1000,958,11-Jul-07
+994,Nizamabad,Nizamabad,Wheat,Deshi,Medium,1401,1401,1401,04-Apr-18
+995,Nizamabad,Nizamabad,Wheat,Deshi,Medium,1300,1300,1300,09-Dec-17
+996,Nizamabad,Nizamabad,Wheat,White,Medium,1300,1300,1300,09-Dec-17
+997,Nizamabad,Nizamabad,Wheat,Bansi,Medium,1561,1565,1565,14-Nov-17
+998,Nizamabad,Nizamabad,Wheat,Bansi,Medium,1515,1515,1515,24-Aug-17
+999,Nizamabad,Nizamabad,Wheat,Deshi,Medium,1855,1855,1855,10-Jul-17
+1000,Nizamabad,Nizamabad,Wheat,Bansi,Medium,1525,1525,1525,13-Apr-17
+1001,Nizamabad,Nizamabad,Wheat,Bansi,Medium,1425,1425,1425,01-Feb-17
+1002,Nizamabad,Nizamabad,Wheat,Bansi,Medium,1722,1722,1722,13-Aug-16
+1003,Nizamabad,Nizamabad,Wheat,Bansi,Medium,1500,1520,1520,09-Aug-16
+1004,Nizamabad,Nizamabad,Wheat,Bansi,Medium,1800,1800,1800,14-Jul-16
+1005,Nizamabad,Nizamabad,Wheat,Bansi,Medium,2025,2025,2025,11-Jun-16
+1006,Nizamabad,Nizamabad,Wheat,Bansi,Medium,1390,1530,1390,11-Apr-16
+1007,Nizamabad,Nizamabad,Wheat,Bansi,Medium,1430,1510,1510,06-Apr-16
+1008,Nizamabad,Nizamabad,Wheat,Bansi,Medium,1360,1402,1365,04-Apr-16
+1009,Nizamabad,Nizamabad,Wheat,Bansi,Medium,1320,1457,1330,29-Mar-16
+1010,Nizamabad,Nizamabad,Wheat,Bansi,Medium,1430,1530,1480,26-Mar-16
+1011,Nizamabad,Nizamabad,Wheat,Bansi,Medium,1312,1482,1482,19-Mar-16
+1012,Nizamabad,Nizamabad,Wheat,Bansi,Medium,1302,1422,1312,18-Mar-16
+1013,Nizamabad,Nizamabad,Wheat,Sharbati,Medium,1390,1461,1460,16-Mar-16
+1014,Nizamabad,Nizamabad,Wheat,Bansi,Medium,1390,1422,1390,15-Mar-16
+1015,Nizamabad,Nizamabad,Wheat,Bansi,Medium,1085,1085,1085,24-Aug-15
+1016,Nizamabad,Nizamabad,Wheat,Bansi,Medium,1411,1411,1411,18-Aug-15
+1017,Nizamabad,Nizamabad,Wheat,Bansi,Medium,1331,1351,1351,24-Jul-15
+1018,Nizamabad,Nizamabad,Wheat,Bansi,Medium,1211,1211,1211,20-Jun-15
+1019,Nizamabad,Nizamabad,Wheat,Bansi,Medium,1151,1151,1151,18-Jun-15
+1020,Nizamabad,Nizamabad,Wheat,Bansi,FAQ,800,1100,1100,06-Apr-09
+1021,Nizamabad,Nizamabad,Wheat,Bansi,FAQ,800,800,800,08-Jul-08
+1022,Nizamabad,Nizamabad,Wheat,Bansi,FAQ,1050,1050,1050,14-Mar-08
+1023,Nizamabad,Nizamabad,Wheat,Bansi,FAQ,1055,1055,1055,11-Mar-08
+1024,Nizamabad,Nizamabad,Wheat,Bansi,FAQ,980,980,980,10-Mar-08
+1025,Nizamabad,Nizamabad,Wheat,Bansi,FAQ,1070,1070,1070,05-Mar-08
+1026,Nizamabad,Nizamabad,Wheat,Bansi,FAQ,1025,1040,1040,20-Feb-08
+1027,Nizamabad,Nizamabad,Wheat,Bansi,FAQ,985,985,985,14-Jun-07
+1028,Nizamabad,Nizamabad,Wheat,Bansi,FAQ,970,970,970,23-Apr-07
+1029,Nizamabad,Nizamabad,Wheat,Bansi,FAQ,890,910,910,16-Apr-07
+1030,Nizamabad,Nizamabad,Wheat,Bansi,FAQ,870,1010,1010,13-Apr-07
+1031,Nizamabad,Nizamabad,Wheat,Bansi,FAQ,1050,1070,1070,28-Mar-07
+1032,Nizamabad,Nizamabad,Wheat,Bansi,FAQ,930,930,930,21-Mar-07
+1033,Nizamabad,Nizamabad,Wheat,Bansi,FAQ,820,870,870,17-Mar-07
+1034,Nizamabad,Nizamabad,Wheat,Bansi,FAQ,780,965,965,14-Mar-07
+1035,Nizamabad,Nizamabad,Wheat,Local,FAQ,840,900,850,10-Mar-07
+1036,Nizamabad,Nizamabad,Wheat,Deshi,FAQ,720,720,720,16-Sep-06
+1037,Nizamabad,Nizamabad,Wheat,Bansi,FAQ,840,840,840,22-Jun-06
+1038,Nizamabad,Nizamabad,Wheat,Bansi,FAQ,770,770,770,28-Apr-06
+1039,Nizamabad,Nizamabad,Wheat,Bansi,FAQ,750,865,865,21-Apr-06
+1040,Nizamabad,Nizamabad,Wheat,Bansi,FAQ,725,725,725,19-Apr-06
+1041,Nizamabad,Nizamabad,Wheat,Bansi,FAQ,650,865,780,18-Apr-06
+1042,Nizamabad,Nizamabad,Wheat,Bansi,FAQ,600,730,730,17-Apr-06
+1043,Nizamabad,Nizamabad,Wheat,Bansi,FAQ,755,821,821,12-Apr-06
+1044,Nizamabad,Nizamabad,Wheat,Bansi,FAQ,700,825,725,10-Apr-06
+1045,Nizamabad,Nizamabad,Wheat,Bansi,FAQ,620,620,620,08-Apr-06
+1046,Nizamabad,Nizamabad,Wheat,Bansi,FAQ,740,740,740,06-Apr-06
+1047,Nizamabad,Nizamabad,Wheat,Bansi,FAQ,650,795,700,04-Apr-06
+1048,Nizamabad,Nizamabad,Wheat,Local,FAQ,720,840,771,03-Apr-06
+1049,Nizamabad,Nizamabad,Wheat,Bansi,FAQ,900,900,900,28-Mar-06
+1050,Nizamabad,Nizamabad,Wheat,Deshi,FAQ,860,860,860,27-Mar-06
+1051,Nizamabad,Nizamabad,Wheat,Bansi,FAQ,750,800,800,25-Mar-06
+1052,Nizamabad,Nizamabad,Wheat,Deshi,FAQ,700,760,760,24-Mar-06
+1053,Nizamabad,Nizamabad,Wheat,Bansi,FAQ,670,700,700,21-Mar-06
+1054,Nizamabad,Nizamabad,Wheat,Local,FAQ,770,770,770,04-Mar-06
+1055,Nizamabad,Nizamabad,Wheat,Local,FAQ,500,540,525,08-Feb-06
+1056,Nizamabad,Nizamabad,Wheat,Local,FAQ,740,740,740,28-Jan-06
+1057,Nizamabad,Nizamabad,Wheat,Local,FAQ,680,680,680,09-Sep-05
+1058,Nizamabad,Nizamabad,Wheat,Bansi,FAQ,570,570,570,31-Aug-05
+1059,Nizamabad,Nizamabad,Wheat,Bansi,FAQ,500,500,500,29-Aug-05
+1060,Warangal,Parkal,Wheat,147 Average,FAQ,200,200,200,23-Jun-06
+1061,Nizamabad,Pitlam,Wheat,Deshi,Medium,1500,1500,1500,17-Dec-15
+1062,Nizamabad,Pitlam,Wheat,Local,FAQ,925,1015,940,19-Mar-08
+1063,Nizamabad,Pitlam,Wheat,Local,FAQ,785,785,785,26-Apr-06
+1064,Nizamabad,Pitlam,Wheat,Local,FAQ,775,775,775,22-Apr-06
+1065,Nizamabad,Pitlam,Wheat,Local,FAQ,760,760,760,20-Apr-06
+1066,Nizamabad,Pitlam,Wheat,Local,FAQ,750,755,750,18-Apr-06
+1067,Medak,Sadasivpet,Wheat,147 Average,FAQ,2000,2000,2000,28-Aug-19
+1068,Medak,Sadasivpet,Wheat,147 Average,FAQ,2451,2451,2451,17-May-19
+1069,Medak,Sadasivpet,Wheat,147 Average,FAQ,1909,2250,1909,24-Apr-19
+1070,Medak,Sadasivpet,Wheat,147 Average,FAQ,1800,1800,1800,18-Apr-19
+1071,Medak,Sadasivpet,Wheat,147 Average,FAQ,1903,2200,2100,17-Apr-19
+1072,Medak,Sadasivpet,Wheat,147 Average,FAQ,1601,1601,1601,15-Apr-19
+1073,Medak,Sadasivpet,Wheat,147 Average,FAQ,1808,1808,1808,13-Apr-19
+1074,Medak,Sadasivpet,Wheat,147 Average,FAQ,2400,2400,2400,29-Mar-19
+1075,Medak,Sadasivpet,Wheat,147 Average,FAQ,2300,2300,2300,25-Mar-19
+1076,Medak,Sadasivpet,Wheat,147 Average,FAQ,1811,1811,1811,09-Mar-19
+1077,Medak,Sadasivpet,Wheat,Local,FAQ,1350,1651,1350,27-Jun-18
+1078,Medak,Sadasivpet,Wheat,Local,FAQ,1850,1850,1850,09-May-18
+1079,Medak,Sadasivpet,Wheat,Local,FAQ,1450,1450,1450,30-Apr-18
+1080,Medak,Sadasivpet,Wheat,Local,FAQ,1575,1575,1575,31-Jan-18
+1081,Medak,Sadasivpet,Wheat,Local,FAQ,1411,1411,1411,29-Jan-18
+1082,Medak,Sadasivpet,Wheat,Local,FAQ,1811,1811,1811,11-Nov-17
+1083,Medak,Sadasivpet,Wheat,Local,FAQ,1590,1590,1590,01-Nov-17
+1084,Medak,Sadasivpet,Wheat,Local,FAQ,1773,1773,1773,28-Aug-17
+1085,Medak,Sadasivpet,Wheat,Other,FAQ,1551,1551,1551,26-May-17
+1086,Adilabad,Sarangapur,Wheat,147 Best,FAQ,800,850,830,02-Jun-07
+1087,Adilabad,Sarangapur,Wheat,147 Best,FAQ,710,810,750,02-Mar-07
+1088,Adilabad,Sarangapur,Wheat,Lok-1 Best,FAQ,650,820,800,02-Mar-07
+1089,Adilabad,Sarangapur,Wheat,147 Average,FAQ,690,800,720,02-Mar-07
+1090,Adilabad,Sarangapur,Wheat,Lokwan,FAQ,770,781,775,02-Mar-07
+1091,Ranga Reddy,Shankarapally,Wheat,Local,FAQ,760,900,830,26-Jun-08
+1092,Karimnagar,Vemulawada,Wheat,Other,Small,1100,1350,1250,15-Apr-14
+1093,Medak,Zaheerabad,Wheat,Bansi,Small,1450,3100,1450,27-Apr-18
+1094,Medak,Zaheerabad,Wheat,Local,Medium,1846,1846,1846,14-Mar-18
+1095,Medak,Zaheerabad,Wheat,Local,Medium,1501,1501,1501,04-Aug-17
+1096,Medak,Zaheerabad,Wheat,Local,Medium,1550,1550,1550,03-Jul-17
+1097,Medak,Zaheerabad,Wheat,Local,Medium,1550,1550,1550,05-Jun-17
+1098,Medak,Zaheerabad,Wheat,Local,Medium,1550,1550,1550,17-May-17
+1099,Medak,Zaheerabad,Wheat,Local,Medium,1700,1700,1700,19-Dec-16
+1100,Medak,Zaheerabad,Wheat,Other,Medium,1400,1400,1400,10-Sep-15
+1101,Medak,Zaheerabad,Wheat,Other,Medium,1400,1400,1400,09-Sep-15
+1102,Medak,Zaheerabad,Wheat,Local,Medium,1400,1400,1400,07-Sep-15
+1103,Medak,Zaheerabad,Wheat,Local,Medium,1500,1500,1500,26-Aug-15
+1104,Medak,Zaheerabad,Wheat,Local,Medium,1919,1919,1919,15-Jun-15
+1105,Medak,Zaheerabad,Wheat,147 Average,Medium,1571,1571,1571,06-Sep-13
+1106,Medak,Zaheerabad,Wheat,Local,Medium,1540,1540,1540,17-Jan-13
+1107,Medak,Zaheerabad,Wheat,Other,Medium,1250,1250,1250,28-Sep-10
+1108,Medak,Zaheerabad,Wheat,Local,Medium,1250,1250,1250,25-Sep-10
+1109,Medak,Zaheerabad,Wheat,Local,FAQ,1050,1050,1050,31-May-09
+1110,Medak,Zaheerabad,Wheat,Local,FAQ,1050,1050,1050,30-May-09
+1111,Medak,Zaheerabad,Wheat,Local,FAQ,1050,1050,1050,29-May-09
+1112,Medak,Zaheerabad,Wheat,Local,FAQ,745,795,770,25-May-09
+1113,Medak,Zaheerabad,Wheat,Local,FAQ,1140,1140,1140,24-May-09
+1114,Medak,Zaheerabad,Wheat,Local,FAQ,1140,1140,1140,23-May-09
+1115,Medak,Zaheerabad,Wheat,Local,FAQ,1140,1140,1140,22-May-09
+1116,Medak,Zaheerabad,Wheat,Other,FAQ,1145,1145,1145,08-May-09
+1117,Medak,Zaheerabad,Wheat,Other,FAQ,1135,1135,1135,06-May-09
+1118,Medak,Zaheerabad,Wheat,Other,FAQ,1135,1135,1135,05-May-09
+1119,Medak,Zaheerabad,Wheat,Other,FAQ,1135,1135,1135,04-May-09
+1120,Medak,Zaheerabad,Wheat,Local,FAQ,1175,1175,1175,23-Apr-09
+1121,Medak,Zaheerabad,Wheat,Local,FAQ,1175,1175,1175,22-Apr-09
+1122,Medak,Zaheerabad,Wheat,Local,FAQ,1175,1175,1175,21-Apr-09
+1123,Medak,Zaheerabad,Wheat,Local,FAQ,1126,1135,1128,07-Apr-09
+1124,Medak,Zaheerabad,Wheat,Local,FAQ,1126,1135,1128,06-Apr-09
+1125,Medak,Zaheerabad,Wheat,Other,FAQ,1120,1175,1147,02-Apr-09
+1126,Medak,Zaheerabad,Wheat,Local,FAQ,1135,1135,1135,23-Mar-09
+1127,Medak,Zaheerabad,Wheat,Local,FAQ,1120,1120,1120,19-Mar-09
+1128,Medak,Zaheerabad,Wheat,Local,FAQ,1100,1100,1100,18-Mar-09
+1129,Medak,Zaheerabad,Wheat,Local,FAQ,1115,1115,1115,13-Mar-09
+1130,Medak,Zaheerabad,Wheat,Local,FAQ,1115,1115,1115,08-Dec-08
+1131,Medak,Zaheerabad,Wheat,Local,FAQ,1000,1000,1000,05-Sep-08
+1132,Medak,Zaheerabad,Wheat,Local,FAQ,1175,1175,1175,28-Jul-08
+1133,Medak,Zaheerabad,Wheat,Local,FAQ,1125,1125,1125,27-Jun-08
+1134,Medak,Zaheerabad,Wheat,Local,FAQ,1000,1055,1023,13-Jun-08
+1135,Medak,Zaheerabad,Wheat,Local,FAQ,900,978,937,12-May-08
+1136,Medak,Zaheerabad,Wheat,Local,FAQ,895,917,910,11-Apr-08
+1137,Medak,Zaheerabad,Wheat,Local,FAQ,1025,1025,1025,04-Apr-08
+1138,Medak,Zaheerabad,Wheat,Local,FAQ,920,950,935,15-Mar-07
+1139,Medak,Zaheerabad,Wheat,Local,FAQ,1045,1045,1045,13-Mar-07
+1140,Medak,Zaheerabad,Wheat,Local,FAQ,900,915,910,10-Mar-07
+1141,Medak,Zaheerabad,Wheat,Local,FAQ,1190,1190,1190,16-Dec-06
+1142,Medak,Zaheerabad,Wheat,Local,FAQ,1085,1085,1085,20-Sep-06
+1143,Medak,Zaheerabad,Wheat,Local,FAQ,1045,1045,1045,18-Sep-06
+1144,Medak,Zaheerabad,Wheat,Local,FAQ,1065,1065,1065,28-Aug-06
+1145,Medak,Zaheerabad,Wheat,Local,FAQ,1050,1050,1050,22-Aug-06
+1146,Medak,Zaheerabad,Wheat,Local,FAQ,1050,1050,1050,18-Aug-06
+1147,Medak,Zaheerabad,Wheat,Local,FAQ,970,1000,985,04-Aug-06
+1148,Medak,Zaheerabad,Wheat,Local,FAQ,970,1000,985,28-Jul-06
+1149,Medak,Zaheerabad,Wheat,Deshi,FAQ,1060,1060,1060,11-Feb-06
+1150,Medak,Zaheerabad,Wheat,Deshi,FAQ,850,850,850,29-Dec-05
+1151,Medak,Zaheerabad,Wheat,Local,FAQ,925,925,925,21-Dec-05
+1152,Medak,Zaheerabad,Wheat,Deshi,FAQ,936,936,936,18-Nov-05
+1153,Medak,Zaheerabad,Wheat,Superior,FAQ,711,711,711,07-Mar-05
+1154,Medak,Zaheerabad,Wheat,Superior,FAQ,734,734,734,04-Mar-05
+1155,Medak,Zaheerabad,Wheat,Superior,FAQ,250,300,260,25-Sep-04
+1156,Medak,Zaheerabad,Wheat,Superior,FAQ,1100,1200,1150,21-Aug-04
+1157,Medak,Zaheerabad,Wheat,Superior,FAQ,1025,1028,1025,12-Aug-04
